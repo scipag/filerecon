@@ -1,0 +1,2096 @@
+# ACE/gr and Grace type files 
+1	s	# xvgr parameter file	ACE/gr ascii file
+1	s	# xmgr parameter file	ACE/gr ascii file
+1	s	# ACE/gr parameter file	ACE/gr ascii file
+1	s	# Grace project file	Grace project file
+1	s	# ACE/gr fit description	ACE/gr fit description file
+
+# Acrobat files
+1	s	%PDF-	PDF document
+1	s	%PDF-1.2	PDF document, version 1.2 (Acrobat 3.x)
+1	s	%PDF-1.3	PDF document, version 1.3
+1	s	%PDF-1.4	PDF document, version 1.4 (Acrobat 5.x)
+1	s	%PDF-1.5	PDF document, version 1.5
+1	s	%FDF-	FDF document
+
+# Adventure Systems
+1	s	Glul	Glulx game data
+1	s	TADS2 bin	TADS (Text Adventure Development System) game binary
+1	s	TADS2 rsc	TADS (Text Adventure Development System) resource data
+1	s	TADS2 save	TADS (Text Adventure Development System) save data
+1	s	constant story	Inform source text
+
+# Alliant FX series a.out files
+1	s	0420	0420 Alliant virtual executable
+1	s	0421	0421 Alliant virtual executable
+
+# Alpha executables and core dumps
+1	s	Core	Alpha COFF format core dump (Digital UNIX)
+
+# Animation files
+1	s	MOVI	Silicon Graphics movie file
+5	s	moov	Apple QuickTime
+5	s	mdat	Apple QuickTime movie (unoptimized)
+5	s	wide	Apple QuickTime movie (unoptimized)
+5	s	skip	Apple QuickTime movie (modified)
+5	s	free	Apple QuickTime movie (modified)
+5	s	idsc	Apple QuickTime image (fast start)
+5	s	idat	Apple QuickTime image (unoptimized)
+5	s	pckg	Apple QuickTime compressed archive
+5	s	jP	JPEG 2000 image
+9	s	isom	ISO Media MPEG v4 system, version 1
+9	s	iso2	ISO Media MPEG v4 system, part 12 revision
+9	s	mp41	ISO Media MPEG v4 system, version 1
+9	s	mp42	ISO Media MPEG v4 system, version 2
+9	s	mp7t	ISO Media MPEG v4 system, MPEG v7 XML
+9	s	mp7p	ISO Media MPEG v4 system, MPEG v7 binary XML
+9	s	jp2	ISO Media JPEG 2000
+9	s	3gp	ISO Media MPEG v4 system, 3GPP
+9	s	mmp4	ISO Media MPEG v4 system, 3GPP Mobile
+9	s	avc1	ISO Media MPEG v4 system, 3GPP JVT AVC
+9	s	M4A	ISO Media MPEG v4 system, iTunes AAC-LC
+9	s	M4V	ISO Media MPEG v4 system, iTunes AAC-LC
+9	s	M4P	ISO Media MPEG v4 system, iTunes AES encrypted
+9	s	M4B	ISO Media MPEG v4 system, iTunes bookmarked
+9	s	qt	ISO Media MPEG v4 system, Apple QuickTime movie
+1	s	ADIF	MPEG ADIF, AAC
+1-16	s	MNG	MNG video data
+1-16	s	JNG	JNG video data
+3-32	s	Version:Vivo	Vivo video data
+1-16	s	VRML V1.0	VRML 1 file
+1-16	s	VRML V2.0	VRML 97 file
+21	s	<!DOCTYPE X3D	X3D (Extensible 3D) model xml text
+1	s	HVQM4	HVQM4 movie data
+1	s	DVDVIDEO-VTS	Video title set
+1	s	DVDVIDEO-VMG	Video manager
+1	s	NuppelVideo	MythTV NuppelVideo
+1	s	MythTV	MythTV NuppelVideo
+9	s	matroska	Matroska data
+
+# Antivirus files
+1	s	ClamAV-VDB:	Clam AntiVirus database
+1	s	AVG7_ANTIVIRUS_VAULT_FILE	AVG 7 Antivirus vault file data
+
+# Amanda file format
+1	s	AMANDA	AMANDA file
+
+# AmigaOS files
+1	s	FC14	Future Composer 1.4 Module sound file (Amiga)
+1	s	SMOD	Future Composer 1.3 Module sound file (Amiga)
+1	s	AON4artofnoise	Art Of Noise Module sound file (Amiga)
+2-56	s	MUGICIAN/SOFTEYES	Mugician Module sound file (Amiga)
+58-128	s	SIDMON II - THE	Sidmon 2.0 Module sound file (Amiga)
+1	s	Synth4.0	Synthesis Module sound file (Amiga)
+1	s	ARP.	The Holy Noise Module sound file (Amiga)
+1	s	BeEp	JamCracker Module sound file (Amiga)
+1	s	COSO	Hippel-COSO Module sound file (Amiga)
+27	s	V.2	Brian Postma's Soundmon Module sound file v2
+27	s	BPSM	Brian Postma's Soundmon Module sound file v3
+27	s	V.3	Brian Postma's Soundmon Module sound file v3
+1	s	EMOD	Amiga E module
+9	s	ECXM	ECX module (Amiga)
+1	s	@database	AmigaGuide file
+1	s	RDSK	Rigid Disk Block (Amiga)
+1	s	DOS	Amiga disk
+1	s	KICK	Kickstart disk (Amiga)
+1	s	LZX	LZX compressed archive (Amiga)
+
+# Apple files
+1	s	FiLeStArTfIlEsTaRt	binscii (apple ][) text
+1	s	NuFile	NuFile archive (apple ][) data
+1	s	2IMG	Apple ][ 2IMG Disk Image
+1	s	2IMGXGS!	Apple ][ 2IMG Disk Image, XGS
+1	s	2IMGCTKG	Apple ][ 2IMG Disk Image, Catakig
+1	s	2IMGShIm	Apple ][ 2IMG Disk Image, Sheppy's ImageMaker
+1	s	2IMGWOOF	Apple ][ 2IMG Disk Image, Sweet 16
+1	s	2IMGB2TR	Apple ][ 2IMG Disk Image, Bernie ][ the Rescue
+1	s	2IMG!nfc	Apple ][ 2IMG Disk Image, ASIMOV2
+1	s	package0	Newton package, NOS 1.x
+1	s	package1	Newton package, NOS 2.x
+1	s	package4	Newton package, NOS 1.x or 2.x
+4	s	O====	AppleWorks word processor data
+132	s	RA	AppleWorks spreadsheet data, automated row-order recalculation
+132	s	RM	AppleWorks spreadsheet data, manual row-order recalculation
+132	s	CA	AppleWorks spreadsheet data, automated column-order recalculation
+132	s	CM	AppleWorks spreadsheet data, automated manual-order recalculation
+1	s	bplist00	Apple binary property list
+1	s	bplist	Apple binary property list
+1	s	caff	CoreAudio Format audio file
+1	s	kych	Mac OS X Keychain File
+1	s	innotek VirtualBox Disk Image	innotek VirtualBox Disk Image
+1-32	s	xmcd	CDDB(tm) format CD text data
+12	s	must be converted with BinHex	BinHex binary text
+1	s	SIT!	StuffIt Archive (data)
+1	s	SITD	StuffIt Deluxe (data)
+1	s	Seg	StuffIt Deluxe Segment (data)
+1	s	StuffIt	StuffIt Archive
+1	s	APPL	Macintosh Application (data)
+1	s	zsys	Macintosh System File (data)
+1	s	FNDR	Macintosh Finder (data)
+1	s	libr	Macintosh Library (data)
+1	s	shlb	Macintosh Shared Library (data)
+1	s	cdev	Macintosh Control Panel (data)
+1	s	INIT	Macintosh Extension (data)
+1	s	FFIL	Macintosh Truetype Font (data)
+1	s	LWFN	Macintosh Postscript Font (data)
+1	s	PACT	Macintosh Compact Pro Archive (data)
+1	s	ttro	Macintosh TeachText File (data)
+1	s	TEXT	Macintosh TeachText File (data)
+1	s	PDF	Macintosh PDF File (data)
+66	s	8BIM	Macintosh MacBinary data, PhotoShop
+66	s	ALB3	Macintosh MacBinary data, PageMaker 3
+66	s	ALB4	Macintosh MacBinary data, PageMaker 4
+66	s	ALT3	Macintosh MacBinary data, PageMaker 3
+66	s	APPL	Macintosh MacBinary data, application
+66	s	AWWP	Macintosh MacBinary data, AppleWorks word processor
+66	s	CIRC	Macintosh MacBinary data, simulated circuit
+66	s	DRWG	Macintosh MacBinary data, MacDraw
+66	s	EPSF	Macintosh MacBinary data, Encapsulated PostScript
+66	s	FFIL	Macintosh MacBinary data, font suitcase
+66	s	FKEY	Macintosh MacBinary data, function key
+66	s	FNDR	Macintosh MacBinary data, Macintosh Finder
+66	s	GIFf	Macintosh MacBinary data, GIF image
+66	s	Gzip	Macintosh MacBinary data, GNU gzip
+66	s	INIT	Macintosh MacBinary data, system extension
+66	s	LIB\ 	Macintosh MacBinary data, library
+66	s	LWFN	Macintosh MacBinary data, PostScript font
+66	s	MSBC	Macintosh MacBinary data, Microsoft BASIC
+66	s	PACT	Macintosh MacBinary data, Compact Pro archive
+66	s	PDF\ 	Macintosh MacBinary data, Portable Document Format
+66	s	PICT	Macintosh MacBinary data, picture
+66	s	PNTG	Macintosh MacBinary data, MacPaint picture
+66	s	PREF	Macintosh MacBinary data, preferences
+66	s	PROJ	Macintosh MacBinary data, Think C project
+66	s	QPRJ	Macintosh MacBinary data, Think Pascal project
+66	s	SCFL	Macintosh MacBinary data, Defender scores
+66	s	SCRN	Macintosh MacBinary data, startup screen
+66	s	SITD	Macintosh MacBinary data, StuffIt Deluxe
+66	s	SPn3	Macintosh MacBinary data, SuperPaint
+66	s	STAK	Macintosh MacBinary data, HyperCard stack
+66	s	Seg\ 	Macintosh MacBinary data, StuffIt segment
+66	s	TARF	Macintosh MacBinary data, Unix tar archive)
+66	s	TEXT	Macintosh MacBinary data, ASCII
+66	s	TIFF	Macintosh MacBinary data, TIFF image
+66	s	TOVF	Macintosh MacBinary data, Eudora table of contents)
+66	s	WDBN	Macintosh MacBinary data, Microsoft Word word processor
+66	s	WORD	Macintosh MacBinary data, MacWrite word processor)
+66	s	XLS\ 	Macintosh MacBinary data, Microsoft Excel
+66	s	ZIVM	Macintosh MacBinary data, compress (.Z)
+66	s	ZSYS	Macintosh MacBinary data, Pre-System 7 system file
+66	s	acf3	Macintosh MacBinary data, Aldus FreeHand
+66	s	cdev	Macintosh MacBinary data, control panel
+66	s	dfil	Macintosh MacBinary data, Desk Acessory suitcase
+66	s	libr	Macintosh MacBinary data, library
+66	s	nX^d	Macintosh MacBinary data, WriteNow word processor
+66	s	nX^w	Macintosh MacBinary data, WriteNow dictionary
+66	s	rsrc	Macintosh MacBinary data, resource
+66	s	scbk	Macintosh MacBinary data, Scrapbook
+66	s	shlb	Macintosh MacBinary data, shared library
+66	s	ttro	Macintosh MacBinary data, SimpleText read-only
+66	s	zsys	Macintosh MacBinary data, system file
+70	s	8BIM	Macintosh MacBinary data, Adobe Photoshop
+70	s	ALD3	Macintosh MacBinary data, PageMaker 3
+70	s	ALD4	Macintosh MacBinary data, PageMaker 4
+70	s	ALFA	Macintosh MacBinary data, Alpha editor
+70	s	APLS	Macintosh MacBinary data, Apple Scanner
+70	s	APSC	Macintosh MacBinary data, Apple Scanner
+70	s	BRKL	Macintosh MacBinary data, Brickles
+70	s	BTFT	Macintosh MacBinary data, BitFont
+70	s	CCL2 	Macintosh MacBinary data, Common Lisp 2
+70	s	CCL\ 	Macintosh MacBinary data, Common Lisp
+70	s	CDmo	Macintosh MacBinary data, The Talking Moose
+70	s	CPCT	Macintosh MacBinary data, Compact Pro
+70	s	CSOm	Macintosh MacBinary data, Eudora
+70	s	DMOV	Macintosh MacBinary data, Font/DA Mover
+70	s	DSIM	Macintosh MacBinary data, DigSim
+70	s	EDIT	Macintosh MacBinary data, Macintosh Edit
+70	s	ERIK	Macintosh MacBinary data, Macintosh Finder
+70	s	EXTR	Macintosh MacBinary data, self-extracting archive
+70	s	Gzip	Macintosh MacBinary data, GNU gzip
+70	s	KAHL	Macintosh MacBinary data, Think C
+70	s	LWFU	Macintosh MacBinary data, LaserWriter Utility
+70	s	LZIV	Macintosh MacBinary data, compress
+70	s	MACA	Macintosh MacBinary data, MacWrite
+70	s	MACS	Macintosh MacBinary data, Macintosh operating system
+70	s	MAcK	Macintosh MacBinary data, MacKnowledge terminal emulator
+70	s	MLND	Macintosh MacBinary data, Defender
+70	s	MPNT	Macintosh MacBinary data, MacPaint
+70	s	MSBB	Macintosh MacBinary data, Microsoft BASIC (binary)
+70	s	MSWD	Macintosh MacBinary data, Microsoft Word
+70	s	NCSA	Macintosh MacBinary data, NCSA Telnet
+70	s	PJMM	Macintosh MacBinary data, Think Pascal
+70	s	PSAL	Macintosh MacBinary data, Hunt the Wumpus
+70	s	PSI2	Macintosh MacBinary data, Apple File Exchange
+70	s	R*ch	Macintosh MacBinary data, BBEdit
+70	s	RMKR	Macintosh MacBinary data, Resource Maker
+70	s	RSED	Macintosh MacBinary data, Resource Editor
+70	s	Rich	Macintosh MacBinary data, BBEdit
+70	s	SIT!	Macintosh MacBinary data, StuffIt
+70	s	SPNT	Macintosh MacBinary data, SuperPaint
+70	s	Unix	Macintosh MacBinary data, NeXT Mac filesystem
+70	s	VIM!	Macintosh MacBinary data, Vim editor
+70	s	WILD	Macintosh MacBinary data, HyperCard
+70	s	XCEL	Macintosh MacBinary data, Microsoft Excel
+70	s	aCa2	Macintosh MacBinary data, Fontographer
+70	s	aca3	Macintosh MacBinary data, Aldus FreeHand
+70	s	dosa	Macintosh MacBinary data, Macintosh MS-DOS file system
+70	s	movr	Macintosh MacBinary data, Font/DA Mover
+70	s	nX^n	Macintosh MacBinary data, WriteNow
+70	s	pdos	Macintosh MacBinary data, Apple ProDOS file system
+70	s	scbk	Macintosh MacBinary data, Scrapbook
+70	s	ttxt	Macintosh MacBinary data, SimpleText
+70	s	ufox	Macintosh MacBinary data, Foreign File Access
+103	s	mBIN	MacBinary III data with surprising version number
+1	s	SAS	SAS
+25	s	DATA	SAS data file
+25	s	CATALOG	SAS catalog
+25	s	INDEX	SAS data file index
+25	s	VIEW	SAS data view
+85	s	SAS	SAS 7+
+157	s	DATA	SAS 7+ data file
+157	s	CATALOG	SAS 7+ catalog
+157	s	INDEX	SAS 7+ data file index
+157	s	VIEW	SAS 7+ data view
+1	s	$FL2	SPSS System File
+1	s	BOMStore	Mac OS X bill of materials (BOM) file
+
+# Applixware
+1	s	*BEGIN	Applixware
+1	s	*BEGINWORDS	Applixware Words Document
+1	s	*BEGINGRAPHICS	Applixware Graphic
+1	s	*BEGINRASTER	Applixware Bitmap
+1	s	*BEGINSPREADSHEETS	Spreadsheet
+1	s	*BEGINSMACRO	Applixware Macro
+1	s	*BEGINSBUILDER	Applixware Builder Object
+
+# Archives
+1	s	PK	PKZIP archive
+258	s	ustar	POSIX tar archive
+9	s	debian-split	Debian multipart package part
+9	s	debian-binary	Debian binary package
+9	s	__________EU	MIPS archive with MIPS Ucode members
+9	s	__________EL	MIPS archive with MIPSEL members
+9	s	__________EB	MIPS archive with MIPSEB members
+1	s	-h-	Software Tools format archive text
+1	s	<ar>	System V Release 1 ar archive
+9	s	__.SYMDEF	Aegis random library
+2-32	s	archive	RISC OS archive (ArcFS format)
+1	s	Archive	RISC OS archive (ArcFS format)
+1	s	CRUSH	Crush archive data
+1	s	HLSQZ	Squeeze It archive data
+1	s	SQWEZ	SQWEZ archive data
+1	s	HPAK	HPack archive data
+3	s	HF	HAP archive data
+1	s	MDmd	MDCD archive data
+1	s	LIM	LIM archive data
+3	s	LH5	SAR archive data
+2	s	=-ah	MAR archive data
+1	s	JRchive	JRC archive data
+1	s	DS	Quantum archive data
+#1	s	PK	ReSOF archive data
+15	s	YC	YAC archive data
+1	s	X1	X1 archive data
+1	s	XhDr	X1 archive data
+2-8	s	6"	AMGC archive data
+1	s	N√µF√©l√•	NuLIB archive data
+1	s	LEOLZW	PAKLeo archive data
+1	s	SChF	ChArc archive data
+1	s	PSA	PSA archive data
+1	s	DSIGDCC	CrossePAC archive data
+1	s	¬®MP¬®	KBoom archive data
+1	s	Dirk Paehl	DPA archive data
+1	s	ESP	ESP archive data
+2-8	s	ZPK	ZPack archive data
+1	s	UFA	UFA archive data
+1	s	=-H2O	DRY archive data
+1	s	FOXSQZ	FoxSQZ archive data
+1	s	,AR7	AR7 archive data
+1	s	PPMZ	PPMZ archive data
+1	s	KWAJ	MS Compress archive data
+1	s	MP3	MP3-Archiver archive data
+1	s	OZ√ù	ZET archive data
+1	s	gW	ARQ archive data
+4	s	OctSqu	Squash archive data
+1	s	UHA	UHarc archive data
+1	s	CO	CMP archive data
+2	s	GTH	Gather archive data
+1	s	BOA	BOA archive data
+1	s	ULEB	RAX archive data
+1	s	ULEB	Xtreme archive data
+1	s	@√¢	Pack Magic archive data
+1	s	Ora	ELI 5750 archive data
+1	s	RNC	PRO-PACK archive data
+1	s	777	777 archive data
+1	s	sTaC	LZS221 archive data
+1	s	HPA	HPA archive data
+1	s	LG	Arhangel archive data
+1	s	0123456789012345BZh	EXP1 archive data
+1	s	IMP	IMP archive data
+1	s	PHILIPP	Par archive data
+1	s	PAR	Par archive data
+1	s	UB	HIT archive data
+1	s	NSK	NaShrink archive data
+1	s	# CAR archive header	SAPCAR archive data
+1	s	CAR 2.00RG	SAPCAR archive data
+1	s	DST	Disintegrator archive data
+1	s	ASD	ASD archive data
+1	s	ISc(	InstallShield CAB
+1	s	T4	TOP4 archive data
+1	s	BH	BlakHole archive data
+1	s	BIX0	BIX archive data
+1	s	ChfLZ	ChiefLZA archive data
+1	s	Blink	Blink archive data
+1	s	(C) STEPANYUK	ARS-Sfx archive data
+1	s	AKT32	AKT32 archive data
+1	s	AKT	AKT archive data
+1	s	MSTSM	NPack archive data
+1	s	SEM	SemOne archive data
+1	s	FIZ	FIZ archive data
+1	s	=<DC-	DC archive data
+2	s	TPAC	TPac archive data
+1	s	Ai	Ai archive data
+1	s	SBC	SBC archive data
+1	s	YBS	Ybs archive data
+1	s	DMS!	DMS archive data
+1	s	VS	VSARC archive data
+1	s	PDZ	PDZ archive data
+1	s	rdqx	ReDuq archive data
+1	s	GCAX	GCA archive data
+1	s	pN	PPMN archive data
+3	s	WINIMAGE	WinImage archive data
+1	s	CMP0CMP	Compressia archive data
+1	s	UHB	UHBC archive data
+1	s	WWP	WWPack archive data
+1	s	xpa	XPA32 archive data
+1	s	SZ	SZip archive data
+1	s	jm	XPack DiskImage archive data
+1	s	xpa	XPack archive data
+1	s	√ç jm	XPack single archive data
+1	s	DZ	Dzip archive data
+1	s	ZZ 	ZZip archive data
+1	s	ZZ0	ZZip archive data
+1	s	PAQ	PAQ archive data
+1	s	JARCS	JAR (ARJ Software, Inc.) archive data
+1	s	HA	HA archive data
+1	s	HPAK	HPACK archive data
+3	s	-lh0-	LHarc 1.x/ARX archive data
+3	s	-lh1-	LHarc 1.x/ARX archive data
+3	s	-lz4-	LHarc 1.x archive data
+3	s	-lz5-	LHarc 1.x archive data
+3	s	-lzs-	LHa/LZS archive data
+3	s	-lhd-	LHa 2.x? archive data
+3	s	-lh2-	LHa 2.x? archive data
+3	s	-lh3-	LHa 2.x? archive data
+3	s	-lh4-	LHa 2.x archive data
+3	s	-lh5-	LHa 2.x archive data
+3	s	-lh6-	LHa 2.x archive data
+3	s	-lh7-	LHa (2.x)/LHark archive data
+3	s	-lZ	PUT archive data
+3	s	-lz	LZS archive data 
+3	s	-sw1-	Swag archive data
+1	s	Rar!	RAR archive data
+1	s	RE	RAR archive data
+1	s	SQSH	squished archive data (Acorn RISCOS)
+1	s	UC2	UC2 archive data
+354	s	WINZIP	Zip archive data, WinZIP self-extracting
+11	s	# This is a shell archive	Shell archive text
+3	s	-pm0-	PMarc archive data
+3	s	-pm1-	PMarc archive data
+3	s	-pm2-	PMarc archive data
+3	s	-pms-	PMarc SFX archive (CP/M, DOS)
+6	s	-pc1-	PopCom compressed executable (CP/M)
+1	s	MSCF	Microsoft cabinet file data
+5	s	gtktalog	GTKtalog catalog data
+1	s	PAR	PARity archive data
+1	s	d8:announce	BitTorrent file
+1	s	PK00PK	Zip archive data
+8	s	**ACE**	ACE archive data
+27	s	sfArk	sfArk compressed Soundfont
+1	s	Packed File	Personal NetWare Packed File
+1	s	RZIP	rzip compressed data
+1	s	MPQ	MoPaQ (MPQ) archive
+1	s	xar!	xar archive
+1	s	KGB_arch	KGB Archiver file
+1	s	BZh	bzip2 compressed data
+1	s	BZ	bzip compressed data
+1	s	XPKF	Amiga xpkf.library compressed data
+1	s	PP11	Power Packer 1.1 compressed data
+1	s	PP20	Power Packer 2.0 compressed data
+1	s	7z	7-zip archive data
+1	s	RZIP	rzip compressed data
+31	s	PKLITE Copr.	PKZIP self-extracting archive
+68	s	ENCRYPTED FILE	SafeGuard PrivateCrypto uti archive
+>256	s	SafeGuard PrivateCrypto	SafeGuard PrivateCrypto self-extracting archive
+
+# Aster*x
+1	s	*STA	Aster*x
+1	s	*STAWORD	Aster*x words document
+1	s	*STAGRAP	Aster*x graphic
+1	s	*STASPRE	Aster*x spreadsheet
+1	s	*STAMACR	Aster*x macro
+1	s	2278	Aster*x version 2
+
+# Attack Tool Kit
+1	s	<plugin_id>	Attack Tool Kit ASLv1 plugin
+1	s	<name>	Attack Tool Kit suggestion plugin
+
+# Audio files
+1	s	.snd	Sun/NeXT audio data
+1	s	MThd	Standard MIDI data
+1	s	CTMF	Creative Music (CMF) data
+1	s	SBI	SoundBlaster instrument data
+1	s	Creative Voice File	Creative Labs voice data
+1	s	EMOD	Extended MOD sound data
+1	s	.RMF	RealMedia file
+1	s	MTM	MultiTracker Module sound file
+1	s	if	Composer 669 Module sound data
+1	s	jn	Composer 669 Module sound data, extended format
+1	s	MAS_U	ULT(imate) Module sound data
+1	s	FAR	Module sound data
+45	s	SCRM	ScreamTracker III Module sound data
+1	s	GF1PATCH110	GUS patch
+1	s	GF1PATCH100	GUS patch old
+1	s	MAS_UTrack_V00	ultratracker v1 module sound data
+1	s	UN05	MikMod UNI format module sound data
+1	s	Extended Module:	Fasttracker II module sound data
+22	s	=!SCREAM!	Screamtracker 2 module sound data
+22	s	BMOD2STM	Screamtracker 2 module sound data
+1081	s	M.K.	4-channel Protracker module sound data
+1081	s	M!K!	4-channel Protracker module sound data
+1081	s	FLT4	4-channel Startracker module sound data
+1081	s	FLT8	8-channel Startracker module sound data
+1081	s	4CHN	4-channel Fasttracker module sound data
+1081	s	6CHN	6-channel Fasttracker module sound data
+1081	s	8CHN	8-channel Fasttracker module sound data
+1081	s	CD81	8-channel Octalyser module sound data
+1081	s	OKTA	8-channel Octalyser module sound data
+1081	s	16CN	16-channel Taketracker module sound data
+1081	s	32CN	32-channel Taketracker module sound data
+1	s	TOC	TOC sound file
+1	s	SIDPLAY INFOFILE	Sidplay info file
+1	s	PSID	PlaySID v2.2+ (AMIGA) sidtune
+1	s	RSID	RSID sidtune PlaySID compatible
+1	s	NIST_1A	NIST SPHERE file
+1	s	SOUND SAMPLE DATA	Sample Vision file
+1	s	2BIT	Audio Visual Research file,
+1	s	_SGI_SoundTrack	SGI SoundTrack project file
+1	s	ID3	Audio file with ID3 version 2
+2585	s	!fLaC	Audio file with ID3 version 2 and MP3 encoding
+1-256	s	LAME	Audio file with ID3 (lame encoding)
+1	s	NESM	NES Sound File
+1	s	IMPM	Impulse Tracker module sound data
+61	s	IM10	Imago Orpheus module sound data
+1	s	IMPS	Impulse Tracker Sample
+1	s	IMPI	Impulse Tracker Instrument
+1	s	LM8953	Yamaha TX Wave
+77	s	SCRS	Scream Tracker Sample
+1	s	MMD0	MED music file, version 0
+1	s	MMD1	OctaMED Pro music file, version 1
+1	s	MMD3	OctaMED Soundstudio music file, version 3
+1	s	OctaMEDCmpr	OctaMED Soundstudio compressed file
+1	s	MED	MED_Song
+1	s	SymM	Symphonie SymMOD music file
+1	s	THX	AHX version
+1	s	OKTASONG	Oktalyzer module data
+1	s	DIGI Booster module	DIGI Booster module
+1	s	DBM0	DIGI Booster module
+1	s	FTMN	FaceTheMusic module
+1	s	AMShdr	Velvet Studio AMS Module v2.2
+1	s	Extreme	Extreme Tracker AMS Module v1.3
+1	s	DDMF	Xtracker DMF Module
+1	s	DSM	Dynamic Studio Module DSM
+1	s	SONG	DigiTrekker DTM Module
+1	s	DMDL	DigiTrakker MDL Module
+1	s	PSM	Protracker Studio PSM Module
+45	s	PTMF	Poly Tracker PTM Module
+1	s	MT20	MadTracker 2.0 Module MT2
+1	s	RAD	RAD Adlib Tracker Module RAD
+1	s	RTMM	RTM Module
+1063	s	MaDoKaN96	XMS Adlib Module
+1	s	AMF	AMF Module
+1	s	MODINFO1	Open Cubic Player Module Inforation MDZ
+1	s	Extended Instrument:	Fast Tracker II Instrument
+1	s	MMMD	Yamaha SMAF file
+1-16	s	Sharp	SHARP Cell-Phone ringing Melody
+1	s	fLaC	FLAC audio bitstream data
+1	s	VBOX	VBOX voice message data
+9	s	RB40	RBS Song file
+30	s	ReBorn	RBS Song file created by ReBorn
+38	s	Propellerhead	RBS Song file created by ReBirth
+1	s	A#S#C#S#S#L#V#3	Synthesizer Generator or Kimwitu data
+1	s	A#S#C#S#S#L#HUB	Kimwitu++ data
+1	s	TFMX-SONG	TFMX module sound data
+1	s	MAC	Monkey's Audio compressed format
+1	s	RAWADATA	RdosPlay RAW
+1069	s	RoR	AMUSIC Adlib Tracker
+1	s	JCH	EdLib
+1	s	mpu401tr	MPU-401 Trakker
+1	s	SAdT	Surprise! Adlib Tracker
+1	s	XAD!	eXotic ADlib
+1	s	ofTAZ!	eXtra Simple Music
+1	s	ZXAYEMUL	Spectrum 128 tune
+2-8	s	BONK	BONK
+385	s	LockStream	LockStream Embedded file (usually MP3 on old Nokia phones)
+1	s	TWIN97012000	VQF data
+1	s	Winamp EQ library file	Winamp EQ library file
+1	s	[Equalizer preset]	XMMS equalizer preset
+1	s	#EXTM3U	M3U playlist text
+1	s	[playlist]	PLS playlist text
+1	s	[licq]	LICQ configuration file
+1	s	ICE!	SNDH Atari ST music
+1	s	SC68 Music-file / (c)	sc68 Atari ST music
+1	s	MP+	Musepack audio
+1	s	BEGIN:IMELODY	iMelody Ringtone Format
+1	s	FICHIER GUITAR PRO v3	Guitar Pro Ver. 3 Tablature
+61	s	SONG	SoundFX Module sound file
+1	s	#!AMR	Adaptive Multi-Rate Codec (GSM telephony)
+
+# b.out
+1	s	=!<bout>	b.out archive
+1	s	=!<bout>__.SYMDEF	b.out archive, random library
+
+# BFLT uclinux binary files
+1	s	bFLT	BFLT uclinux executable
+
+# Blender3D
+1	s	=BLENDER	Blender3D
+1	s	=BLENDER=_	Blender3D, saved as 32-bits
+1	s	=BLENDER=_=v	Blender3D, saved as 32-bits, little endian
+1	s	=BLENDER=_=V	Blender3D, saved as 32-bits, big endian
+1	s	=BLENDER=-	Blender3D, saved as 64-bits
+1	s	=BLENDER=-=v	Blender3D, saved as 64-bits, little endian
+1	s	=BLENDER=-=V	Blender3D, saved as 64-bits, big endian
+1	s	#!BPY	Blender3D BPython script
+
+# BTSnoop
+1	s	btsnoop	BTSnoop
+
+# C64
+1	s	C64	CCS C64 Emultar Cartridge Image
+1	s	GCR-1541	GCR Image
+10	s	PSUR	ARC archive (c64)
+3	s	-LH1-	LHA archive (c64)
+1	s	C64File	PC64 Emulator file
+1	s	C64Image	PC64 Freezer Image
+1	s	CBM	Power 64 C64 Emulator Snapshot
+1	s	C64S tape file	T64 tape image
+1	s	C64 tape image	T64 tape image
+1	s	C64S tape image	T64 tape image
+
+# CAD
+1	s	AC1012	AutoCad (release 12)
+1	s	AC1013	AutoCad (release 13)
+1	s	AC1014	AutoCad (release 14)
+1	s	AC1012	AutoDesk AutoCAD R13
+1	s	AC1014	AutoDesk AutoCAD R14
+1	s	AC1015	AutoDesk AutoCAD R2000
+
+# chord
+1	s	{title	Chord text file
+
+# Citrus
+1	s	RuneCT	Citrus locale declaration for LC_CTYPE
+
+# CLIPPER
+5	s	pipe	CLIPPER instruction trace
+5	s	prof	CLIPPER instruction profile
+
+# Consoles and emulators
+1	s	NES	iNES ROM dump
+257	s	SEGA	Sega MegaDrive/Genesis raw ROM dump
+641	s	EAGN	Super MagicDrive ROM dump
+641	s	EAMG	Super MagicDrive ROM dump
+1	s	LCDi	Dream Animator file
+192-208	s	Qi	Nintendo DS Game ROM Image
+1-16	s	Qi	Nintendo Game Boy Advance ROM Image
+1	s	PS-X EXE	Sony Playstation executable
+1	s	XBEH	XBE, Microsoft Xbox executable
+1	s	XIP0	XIP, Microsoft Xbox data
+1	s	XTF0	XTF, Microsoft Xbox data
+1-8	s	ZZZZZ	3DO "Opera" file system
+1	s	GBS	Nintendo Gameboy Music/Audio Data
+13	s	GameBoy Music Module	Nintendo Gameboy Music Module
+1	s	PPF10	Playstation Patch File version 1.0
+1	s	PPF20	Playstation Patch File version 2.0
+1	s	PPF30	Playstation Patch File version 3.0
+1	s	SMV	SNES9x input recording
+
+# cracklib
+1-16	s	pwV1	Cracklib password index, big endian ("64-bit")
+
+# ctags
+1-64	s	!_TAG	Exuberant Ctags tag file text
+
+# CVS files
+2-12	s	 :pserver:	cvs password text file
+1	s	# v2 git bundle	Git bundle
+1	s	HG10	Mercurial bundle
+1	s	HG10UN	Mercurial bundle, uncompressed
+1	s	HG10BZ	Mercurial bundle, bzip2 compressed
+
+# Databases
+1	s	GDBM	GNU dbm 2.x database
+1	s	RRD	RRDTool DB
+1	s	root	ROOT file
+5	s	Standard Jet DB	Microsoft Access Database
+1	s	TDB file	TDB database
+3	s	ICE	ICE authority data
+11-37	s	MIT-MAGIC-COOKIE-1	X11 Xauthority data
+1	s	PGDMP	PostgreSQL custom database dump
+1	s	@(#)ADF Database	CGNS Advanced Data Format
+
+# Diamond
+1-64	s	<protocol bbn-multimedia-format>	Diamond Multimedia Document
+
+# diff
+1-64	s	diff	diff output text
+1-64	s	***\	diff output text
+1-64	s	Only in	diff output text
+1-64	s	Common subdirectories:	diff output text
+1-64	s	Index:	RCS/CVS diff output text
+
+# Digital UNIX
+1-32	s	!<arch>	Alpha archive
+1-32	s	!<PDF>!	Digital UNIX profiling data file
+
+# ELF binaries
+2-5	s	ELF	ELF
+2-6	s	ELF0	ELF, invalid class
+2-6	s	ELF1	ELF, 32-bit
+2-6	s	ELF2	ELF, 64-bit
+
+# Erlang JAM and BEAM files
+2-8	s	BEAM!	Old Erlang BEAM file
+1	s	FOR1	Erlang BEAM file
+9-12	s	BEAM	Erlang BEAM file
+5	s	Tue Jan 22 14:32:44 MET 1991	Erlang JAM file, version 4.2
+80	s	Tue Jan 22 14:32:44 MET 1991	Erlang JAM file, version 4.2
+5	s	1.0 Fri Feb 3 09:55:56 MET 1995	Erlang JAM file, version 4.3
+
+# FCS (Flow Cytometry Standard)
+1	s	FCS1.0	Flow Cytometry Standard (FCS) data, version 1.0
+1	s	FCS2.0	Flow Cytometry Standard (FCS) data, version 2.0
+1	s	FCS3.0	Flow Cytometry Standard (FCS) data, version 3.0
+
+# File systems
+1	s	SBMBAKUP_	Smart Boot Manager backup file
+1	s	DOSEMU	DOS Emulator image
+3	s	OSBS	x86 boot sector, OS/BS MBR
+141	s	Invalid partition table	x86 boot sector, MS-DOS MBR
+202	s	Operating System load error	x86 boot sector, DR-DOS MBR, Version 7.01 to 7.03
+412	s	Caldera Inc.	x86 boot sector, DR-DOS MBR (IBMBIO.LDR)
+272	s	Ung¸ltige Partitionstabelle	x86 boot sector, MS-DOS MBR, german version 4.10.1998, 4.10.2222
+140	s	Ung¸ltige Partitionstabelle	x86 boot sector, MS-DOS MBR, german version 5.00 to 4.00.950
+195	s	Missing operating system	x86 boot sector, Microsoft Windows XP mbr
+356	s	Missing operating system	x86 boot sector, Microsoft Windows XP mbr
+367	s	Betriebssystem nicht vorhanden	x86 boot sector, Microsoft Windows XP MBR (german)
+326	s	Default: F	x86 boot sector, FREE-DOS MBR
+97	s	read error while reading drive	x86 boot sector, FREE-DOS Beta 0.9 MBR
+297	s	error	x86 boot sector, SYSLINUX MBR (2.10)
+393	s	boot from floppy...	x86 boot sector, Acronis MBR
+340	s	I/O Error reading boot sector	x86 boot sector, Visopsys MBR
+380	s	I/O Error reading boot sector	x86 boot sector, simple Visopsys MBR
+4	s	SBM	x86 boot sector, Smart Boot Manager
+383	s	XOSLLOADXCF	x86 boot sector, eXtended Operating System Loader
+7	s	LILO	x86 boot sector, LInux i386 boot LOader (LILO)
+121	s	LILO	x86 boot sector, LInux i386 boot LOader (LILO), version 22.3.4 SuSe
+173	s	LILO	x86 boot sector, LInux i386 boot LOader (LILO), version 22.5.8 Debian
+395	s	stage1	x86 boot sector, GRUB version 0.5.95
+377	s	GRUB	x86 boot sector, GRUB version 0.93 or 1.94
+378	s	GRUB	x86 boot sector, GRUB version 0.94
+380	s	GRUB	x86 boot sector, GRUB version 0.95 or 0.96
+386	s	GRUB	x86 boot sector, GRUB version 0.97
+322	s	Loading stage1.5	x86 boot sector, GRUB, unknown version
+375	s	GRUB	x86 boot sector, GRUB, unknown version
+479	s	Boot failed	x86 boot sector, bootloader 1.62
+481	s	Boot failed	x86 boot sector, bootloader 2.06 or 2.11
+485	s	Boot error	x86 boot sector, SYSLINUX bootloader 3.11
+396	s	chksum	x86 boot sector, Gujin bootloader
+499	s	BCDL	x86 boot sector, Bootable CD Loader 1.50Z
+460	s	press any key...	x86 boot sector, Acronis Startup Recovery Loader
+292	s	and press any key.	FDBOOT harddisk Bootloader
+488	s	and press any key.	WinImage harddisk Bootloader
+170	s	press any key to try again...	FREE-DOS message display
+90	s	Version	Sun Solaris Bootloader
+409	s	OS/2	x86 boot sector, IBM OS/2 Warp bootloader
+430	s	OS/2	x86 boot sector, IBM OS/2 Warp bootloader
+451	s	OS/2	x86 boot sector, IBM OS/2 Warp bootloader
+470	s	OS2BOOT	x86 boot sector, IBM OS/2 Warp bootloader
+471	s	OS2BOOT	x86 boot sector, IBM OS/2 Warp message display
+293	s	strike any key...	x86 boot sector, IBM OS/2 Warp message display
+463	s	Press any key to restart	x86 boot sector, Microsoft Windows XP Bootloader
+474	s	Neustart mit beliebiger Taste	x86 boot sector, Microsoft Windows XP Bootloader (german)
+464	s	Neustart mit beliebiger Taste	x86 boot sector, Microsoft Windows XP Bootloader (german)
+460	s	Neustart: Taste	x86 boot sector, Microsoft Windows XP Bootloader (german)
+470	s	Neustart: Taste	x86 boot sector, Microsoft Windows XP Bootloader (german)
+455	s	and restart	x86 boot sector, Microsoft Windows XP Bootloader NTFS
+456	s	press any key	x86 boot sector, Microsoft Windows 98 Bootloader
+452	s	then press any key	x86 boot sector, Microsoft Windows 98 Bootloader
+454	s	Taste druecken	x86 boot sector, Microsoft Windows 95/98/ME Bootloader (german)
+455	s	Taste druecken	x86 boot sector, Microsoft Windows 95/98/ME Bootloader (german)
+456	s	Taste druecken	x86 boot sector, Microsoft Windows 95/98/ME Bootloader (german)
+451	s	Wechseln und Taste	x86 boot sector, Microsoft DOS Bootloader (german)
+427	s	any key when ready	x86 boot sector, MS or PC-DOS bootloader
+450	s	Disk Boot failure	x86 boot sector, MS DOS 3.21
+467	s	Boot Failure	x86 boot sector, MS DOS 3.30
+488	s	and press any key.	x86 boot sector, MS DOS 2.11 bootloader
+496	s	NEWLDR	x86 boot sector, DR-DOS Bootloader (LOADER.SYS)
+157	s	Loading ...	x86 boot sector, DR-DOS (3.41) Bootloader
+490	s	Any key to retry	x86 boot sector, DR-DOS Bootloader
+488	s	press key to retry	x86 boot sector, Open-DOS Bootloader
+315	s	BOOT error!	x86 boot sector, FREE-DOS Bootloader
+306	s	BOOT err!	x86 boot sector, FREE-DOS Bootloader
+320	s	BOOT error!	x86 boot sector, FREE-DOS 0.5 Bootloader
+312	s	BOOT error!	x86 boot sector, FREE-DOS bootloader
+332	s	 err	x86 boot sector, FREE-DOS BETa 0.9 Bootloader
+334	s	 err	x86 boot sector, FREE-DOS BETa 0.9 Bootloader
+335	s	 err	x86 boot sector, FREE-DOS BETa 0.9 Bootloader
+344	s	Hit a key to reboot.	x86 boot sector, FREE-DOS Beta 0.9sr1 Bootloader
+>256	s	Visopsys loader	x86 boot sector, Visopsys loader
+493	s	RENF	x86 boot sector, FAT (12 bit)
+496	s	RENF	x86 boot sector, FAT (16 bit)
+55	s	FAT12	x86 boot sector, FAT (12 bit)
+55	s	FAT16	x86 boot sector, FAT (16 bit)
+83	s	FAT32	x86 boot sector, FAT (32 bit)
+1	s	FATX	x86 boot sector, FATX filesystem data
+15	s	minix	Minix filesystem, bootable
+1	s	-rom1fs-	romfs filesystem, version 1
+396	s	OS/2	OS/2 Boot Manager
+38914	s	!NSR0	CD001, ISO 9660 CD-ROM filesystem data
+38914	s	NSR0	CD001, UDF filesystem data
+38914	s	NSR0	CD0011, UDF filesystem data, version 1.0
+38914	s	NSR0	CD0012, UDF filesystem data, version 1.5
+38914	s	NSR0	CD0013, UDF filesystem data, version 2.0
+34818-34864	s	EL TORITO SPECIFICATION	CD001, bootable
+37634	s	CD001	ISO 9660 CD-ROM filesystem data (raw 2352 byte sectors)
+32777	s	CDROM	High Sierra CD-ROM filesystem data
+65589	s	ReIsErFs	ReiserFS V3.5
+65589	s	ReIsEr2Fs	ReiserFS V3.6
+1	s	ESTFBINR	EST flat binary
+1	s	VoIP Startup and	Aculab VoIP firmware
+5	s	PPCBoot	u-boot/PPCBoot image
+1	s	sqsh	Squashfs filesystem, big endian
+1	s	td	floppy image data (TeleDisk)
+9	s	OracleCFS	Oracle Clustered Filesystem
+33	s	ORCLDISK	Oracle ASM Volume
+33	s	ORCLCLRD	Oracle ASM Volume (cleared)
+9	s	OracleCFS	Oracle Clustered Filesystem
+33	s	ORCLDISK	Oracle ASM Volume
+33	s	ORCLCLRD	Oracle ASM Volume (cleared)
+1	s	CPQRFBLO	Compaq/HP RILOE floppy image
+1009	s	DECFILE11B	Files-11 On-Disk Structure
+1	s	DAA	PowerISO Direct-Access-Archive
+1	s	*dvdisaster*	dvdisaster error correction file
+
+# Flash
+1	s	FWS	Macromedia Flash data
+1	s	CWS	Macromedia Flash data (compressed)
+1	s	FLV	Macromedia Flash Video
+1	s	AGD4	Macromedia Freehand 9 Document
+
+# Flowfiles
+1	s	NPFF	NItpicker Flow File 
+
+# Fonts
+1	s	FONT	ASCII vfont text
+1	s	%!PS-AdobeFont-1.	PostScript Type 1 font text
+7	s	%!PS-AdobeFont-1.	PostScript Type 1 font program data
+1	s	STARTFONT	X11 BDF font text
+1	s	D1.0	X11 Speedo font data
+1	s	flf	FIGlet font
+1	s	flc	FIGlet controlfile
+4099	s	DOSFONT	DOSFONT2 encrypted font data
+1	s	PFR1	PFR1 font
+1	s	OTTO	OpenType font data 
+1	s	SplineFontDB:	Spline Font Database
+
+# FrameMaker documents
+1	s	<MakerFile	FrameMaker document
+1	s	<MakerFile1.0	FrameMaker document, version 1.0
+1	s	<MakerFile2.0	FrameMaker document, version 2.0
+1	s	<MakerFile3.0	FrameMaker document, version 3.0
+1	s	<MakerFile4.0	FrameMaker document, version 4.0
+1	s	<MakerFile5.0	FrameMaker document, version 5.0
+1	s	<MakerFile5.5	FrameMaker document, version 5.5
+1	s	<MIFFile	FrameMaker MIF (ASCII) file
+1	s	<MIFFile1.0	FrameMaker MIF (ASCII) file,	version 1.x
+1	s	<MIFFile2.0	FrameMaker MIF (ASCII) file,	version 2.0
+1	s	<MIFFile3.0	FrameMaker MIF (ASCII) file,	version 3.0
+1	s	<MIFFile4.0	FrameMaker MIF (ASCII) file,	version 4.0
+1	s	<MakerDictionary	FrameMaker Dictionary text
+1	s	<MakerDictionary1.0	FrameMaker Dictionary text, version 1.x
+1	s	<MakerDictionary2.0	FrameMaker Dictionary text, version 2.0
+1	s	<MakerDictionary3.0	FrameMaker Dictionary text, version 3.0
+1	s	<MakerScreenFont	FrameMaker Font file
+1	s	<MakerScreenFont1.01	FrameMaker Font file, version 1.01
+1	s	<MML	FrameMaker MML file
+1	s	<BookFile	FrameMaker Book file
+1	s	<BookFile1.0	FrameMaker Book file, version 1.0
+1	s	<BookFile2.0	FrameMaker Book file, version 2.0
+1	s	<BookFile3.0	FrameMaker Book file, version 3.0
+1	s	<Book 	FrameMaker Book (ASCII) file
+1	s	<Book 1.0	FrameMaker Book (ASCII) file, version 1.0
+1	s	<Book 2.0	FrameMaker Book (ASCII) file, version 2.0
+1	s	<Book 3.0	FrameMaker Book (ASCII) file, version 3.0
+1	s	<Maker	Intermediate Print File	FrameMaker IPL file
+
+# Games
+1	s	IDP2	Quake II 3D Model file,
+1	s	IBSP	Quake II or III map file
+1	s	IDS2	Quake II SP2 sprite file
+3	s	Boom	Boom or linuxdoom demo
+25	s	LxD 203	Linuxdoom save
+1	s	PACK	Quake I or II world or extension
+1	s	-1	Quake I demo
+3	s	Introduction	Quake I save: start Introduction
+1	s	the_Slipgate_Complex	Quake I save: e1m1 The slipgate complex
+1	s	Castle_of_the_Damned	Quake I save: e1m2 Castle of the damned
+1	s	the_Necropolis	Quake I save: e1m3 The necropolis
+1	s	the_Grisly_Grotto	Quake I save: e1m4 The grisly grotto
+1	s	Ziggurat_Vertigo	Quake I save: e1m8 Ziggurat vertigo (secret)
+1	s	Gloom_Keep	Quake I save: e1m5 Gloom keep
+1	s	The_Door_To_Chthon	Quake I save: e1m6 The door to Chthon
+1	s	The_House_of_Chthon	Quake I save: e1m7 The house of Chthon
+1	s	the_Installation	Quake I save: e2m1 The installation
+1	s	the_Ogre_Citadel	Quake I save: e2m2 The ogre citadel
+1	s	the_Crypt_of_Decay	Quake I save: e2m3 The crypt of decay (dopefish lives!)
+1	s	Underearth	Quake I save: e2m7 Underearth (secret)
+1	s	the_Ebon_Fortress	Quake I save: e2m4 The ebon fortress
+1	s	the_Wizard's_Manse	Quake I save: e2m5 The wizard's manse
+1	s	the_Dismal_Oubliette	Quake I save: e2m6 The dismal oubliette
+1	s	Termination_Central	Quake I save: e3m1 Termination central
+1	s	Vaults_of_Zin	Quake I save: e3m2 Vaults of Zin
+1	s	the_Tomb_of_Terror	Quake I save: e3m3 The tomb of terror
+1	s	Satan's_Dark_Delight	Quake I save: e3m4 Satan's dark delight
+1	s	the_Haunted_Halls	Quake I save: e3m7 The haunted halls (secret)
+1	s	Wind_Tunnels	Quake I save: e3m5 Wind tunnels
+1	s	Chambers_of_Torment	Quake I save: e3m6 Chambers of torment
+1	s	the_Sewage_System	Quake I save: e4m1 The sewage system
+1	s	The_Tower_of_Despair	Quake I save: e4m2 The tower of despair
+1	s	The_Elder_God_Shrine	Quake I save: e4m3 The elder god shrine
+1	s	the_Palace_of_Hate	Quake I save: e4m4 The palace of hate
+1	s	Hell's_Atrium	Quake I save: e4m5 Hell's atrium
+1	s	the_Nameless_City	Quake I save: e4m8 The nameless city (secret)
+1	s	The_Pain_Maze	Quake I save: e4m6 The pain maze
+1	s	Azure_Agony	Quake I save: e4m7 Azure agony
+1	s	Shub-Niggurath's_Pit	Quake I save: end Shub-Niggurath's pit
+1	s	Place_of_Two_Deaths	Quake I save: dm1 Place of two deaths
+1	s	Claustrophobopolis	Quake I save: dm2 Claustrophobopolis
+1	s	The_Abandoned_Base	Quake I save: dm3 The abandoned base
+1	s	The_Bad_Place	Quake I save: dm4 The bad place
+1	s	The_Cistern	Quake I save: dm5 The cistern
+1	s	The_Dark_Zone	Quake I save: dm6 The dark zone
+1	s	Command_HQ	Quake I save: start Command HQ
+1	s	The_Pumping_Station	Quake I save: hip1m1 The pumping station
+1	s	Storage_Facility	Quake I save: hip1m2 Storage facility
+1	s	Military_Complex	Quake I save: hip1m5 Military complex (secret)
+1	s	the_Lost_Mine	Quake I save: hip1m3 The lost mine
+1	s	Research_Facility	Quake I save: hip1m4 Research facility
+1	s	Ancient_Realms	Quake I save: hip2m1 Ancient realms
+1	s	The_Gremlin's_Domain	Quake I save: hip2m6 The gremlin's domain (secret)
+1	s	The_Black_Cathedral	Quake I save: hip2m2 The black cathedral
+1	s	The_Catacombs	Quake I save: hip2m3 The catacombs
+1	s	the_Crypt__	Quake I save: hip2m4 The crypt
+1	s	Mortum's_Keep	Quake I save: hip2m5 Mortum's keep
+1	s	Tur_Torment	Quake I save: hip3m1 Tur torment
+1	s	Pandemonium	Quake I save: hip3m2 Pandemonium
+1	s	Limbo	Quake I save: hip3m3 Limbo
+1	s	the_Edge_of_Oblivion	Quake I save: hipdm1 The edge of oblivion (secret)
+1	s	The_Gauntlet	Quake I save: hip3m4 The gauntlet
+1	s	Armagon's_Lair	Quake I save: hipend Armagon's lair
+1	s	The_Academy	Quake I save: start The academy
+1	s	The_Lab	Quake I save: d1 The lab
+1	s	Area_33	Quake I save: d1b Area 33
+1	s	SECRET_MISSIONS	Quake I save: d3b Secret missions
+1	s	The_Hospital	Quake I save: d10 The hospital (secret)
+1	s	The_Genetics_Lab	Quake I save: d11 The genetics lab (secret)
+1	s	BACK_2_MALICE	Quake I save: d4b Back to Malice
+1	s	Area44	Quake I save: d1c Area 44
+1	s	Takahiro_Towers	Quake I save: d2 Takahiro towers
+1	s	A_Rat's_Life	Quake I save: d3 A rat's life
+1	s	Into_The_Flood	Quake I save: d4 Into the flood
+1	s	The_Flood	Quake I save: d5 The flood
+1	s	Nuclear_Plant	Quake I save: d6 Nuclear plant
+1	s	The_Incinerator_Plant	Quake I save: d7 The incinerator plant
+1	s	The_Foundry	Quake I save: d7b The foundry
+1	s	The_Underwater_Base	Quake I save: d8 The underwater base
+1	s	Takahiro_Base	Quake I save: d9 Takahiro base
+1	s	Takahiro_Laboratories	Quake I save: d12 Takahiro laboratories
+1	s	Stayin'_Alive	Quake I save: d13 Stayin' alive
+1	s	B.O.S.S._HQ	Quake I save: d14 B.O.S.S. HQ
+1	s	SHOWDOWN!	Quake I save: d15 Showdown!
+1	s	The_Seventh_Precinct	Quake I save: ddm1 The seventh precinct
+1	s	Sub_Station	Quake I save: ddm2 Sub station
+1	s	Crazy_Eights!	Quake I save: ddm3 Crazy eights!
+1	s	East_Side_Invertationa	Quake I save: ddm4 East side invertationa
+1	s	Slaughterhouse	Quake I save: ddm5 Slaughterhouse
+1	s	DOMINO	Quake I save: ddm6 Domino
+1	s	SANDRA'S_LADDER	Quake I save: ddm7 Sandra's ladder
+1	s	MComprHD	MAME CHD compressed hard disk image
+1	s	=IWAD	doom main IWAD data
+1	s	=PWAD	doom patch PWAD data
+1	s	Warcraft III recorded game	Warcraft III recorded game
+1	s	HM3W	Warcraft III map file
+3-516	s	GM[	SGF Smart Game Format
+3-518	s	GM[1]	SGF Smart Game Format, Go
+3-518	s	GM[2]	SGF Smart Game Format, Othello
+3-518	s	GM[3]	SGF Smart Game Format, chess
+3-518	s	GM[4]	SGF Smart Game Format, Gomoku+Renju
+3-518	s	GM[5]	SGF Smart Game Format, Nine Men's Morris
+3-518	s	GM[6]	SGF Smart Game Format, Backgammon
+3-518	s	GM[7]	SGF Smart Game Format, Chinese chess
+3-518	s	GM[8]	SGF Smart Game Format, Shogi
+3-518	s	GM[9]	SGF Smart Game Format, Lines of Action
+3-518	s	GM[10]	SGF Smart Game Format, Ataxx
+3-518	s	GM[11]	SGF Smart Game Format, Hex
+3-518	s	GM[12]	SGF Smart Game Format, Jungle
+3-518	s	GM[13]	SGF Smart Game Format, Neutron
+3-518	s	GM[14]	SGF Smart Game Format, Philosopher's Football
+3-518	s	GM[15]	SGF Smart Game Format, Quadrature
+3-518	s	GM[16]	SGF Smart Game Format, Trax
+3-518	s	GM[17]	SGF Smart Game Format, Tantrix
+3-518	s	GM[18]	SGF Smart Game Format, Amazons
+3-518	s	GM[19]	SGF Smart Game Format, Octi
+3-518	s	GM[20]	SGF Smart Game Format, Gess
+3-518	s	GM[21]	SGF Smart Game Format, Twixt
+3-518	s	GM[22]	SGF Smart Game Format, Zertz
+3-518	s	GM[23]	SGF Smart Game Format, Plateau
+3-518	s	GM[24]	SGF Smart Game Format, Yinsh
+3-518	s	GM[25]	SGF Smart Game Format, Punct
+3-518	s	GM[26]	SGF Smart Game Format, Gobblet
+3-518	s	GM[27]	SGF Smart Game Format, hive
+3-518	s	GM[28]	SGF Smart Game Format, Exxit
+3-518	s	GM[29]	SGF Smart Game Format, Hnefatal
+3-518	s	GM[30]	SGF Smart Game Format, Kuba
+3-518	s	GM[31]	SGF Smart Game Format, Tripples
+3-518	s	GM[32]	SGF Smart Game Format, Chase
+3-518	s	GM[33]	SGF Smart Game Format, Tumbling Down
+3-518	s	GM[34]	SGF Smart Game Format, Sahara
+3-518	s	GM[35]	SGF Smart Game Format, Byte
+3-518	s	GM[36]	SGF Smart Game Format, Focus
+3-518	s	GM[37]	SGF Smart Game Format, Dvonn
+3-518	s	GM[38]	SGF Smart Game Format, Tamsk
+3-518	s	GM[39]	SGF Smart Game Format, Gipf
+3-518	s	GM[40]	SGF Smart Game Format, Kropki
+1	s	BIKi	Civilization 4 Video
+1	s	Gamebryo File Format, Version	Gamebryo game engine file
+1	s	;Gamebryo KFM File Version	Gamebryo game engine animation File
+1	s	NetImmerse File Format,	NetImmerse game engine file
+
+# Gimp
+1	s	GIMP Gradient	GIMP gradient data
+1	s	gimp xcf	GIMP XCF image data
+1	s	gimp xcffile	GIMP XCF image data, version 0
+21	s	GPAT	GIMP pattern data
+21	s	GIMP	GIMP brush data
+1-64	s	Curves	GIMP curve file
+
+# Gnome
+1	s	GnomeKeyring	GNOME keyring
+
+# GNU
+1	s	*nazgul*	Nazgul style compiled message catalog
+2-6	s	gpg	GPG key trust database
+40	s	=<gmr:Workbook	Gnumeric spreadsheet
+2	s	LOCATE	GNU findutils locate database data
+
+# Gringotts
+1	s	GRG	Gringotts data file
+1	s	GRG1	Gringotts data file, v.1, MCRYPT S2K, SERPENT crypt, SHA-256 hash, ZLib lvl.9
+1	s	GRG2	Gringotts data file, v.2, MCRYPT S2K
+1	s	GRG3	Gringotts data file, v.3, OpenPGP S2K
+1	s	GRG4	Gringotts data file, v.4, unknown details
+
+# HP
+1	s	Bitmapfile	HP Bitmapfile
+1	s	IMGfile	CIS compimg HP Bitmapfile
+1	s	msgcat01	HP NLS message catalog
+1	s	HPHP	HP binary
+1	s	HPHP48	HP 48 binary
+1	s	HPHP49	HP 49 binary
+1	s	%%HP:	HP text
+7	s	T(0)	HP text, T(0)
+7	s	T(1)	HP text, T(1)
+7	s	T(2)	HP text, T(2)
+7	s	T(3)	HP text, T(3)
+11	s	A(D)	HP text, A(D)
+11	s	A(R)	HP text, A(R)
+11	s	A(G)	HP text, A(G)
+15	s	F(.)	HP text, F(.)
+15	s	F(,)	HP text, F(,)
+1	s	HP3	HP-38/39 calculator
+1	s	HP38	HP-38 calculator
+1	s	HP39	HP-39 calculator
+1	s	HP39Bin	HP-39 calculator binary
+1	s	HP39BinA	HP-39 calculator binary, directory list
+1	s	HP39BinB	HP-39 calculator binary, zaplet
+1	s	HP39BinC	HP-39 calculator binary, note
+1	s	HP39BinD	HP-39 calculator binary, program
+1	s	HP39BinE	HP-39 calculator binary, variable
+1	s	HP39BinF	HP-39 calculator binary, list
+1	s	HP39BinG	HP-39 calculator binary, matrix
+1	s	HP39BinH	HP-39 calculator binary, library
+1	s	HP39BinI	HP-39 calculator binary, target list
+1	s	HP39BinJ	HP-39 calculator binary, ASCII vector specification
+1	s	HP39BinK	HP-39 calculator binary, wildcard
+1	s	HP39Asc	HP-39 calculator ASCII
+1	s	HP39AscA	HP-39 calculator ASCII, directory list
+1	s	HP39AscB	HP-39 calculator ASCII, zaplet
+1	s	HP39AscC	HP-39 calculator ASCII, note
+1	s	HP39AscD	HP-39 calculator ASCII, program
+1	s	HP39AscE	HP-39 calculator ASCII, variable
+1	s	HP39AscF	HP-39 calculator ASCII, list
+1	s	HP39AscG	HP-39 calculator ASCII, matrix
+1	s	HP39AscH	HP-39 calculator ASCII, library
+1	s	HP39AscI	HP-39 calculator ASCII, target list
+1	s	HP39AscJ	HP-39 calculator ASCII, ASCII vector specification
+1	s	HP39AscK	HP-39 calculator ASCII, wildcard
+17	s	HP-UX	HP-UX 10.20 core file
+37	s	HP-UX	HP-UX 10.20 core file
+101	s	HP-UX	HP-UX 10.20 core file
+121	s	HP-UX	HP-UX 10.20 core file
+
+# human86k
+1	s	HU	Human68k
+69	s	LZX	Human68k LZX compressed
+5	s	LZX	Human68k LZX compressed
+3	s	#HUPAIR	Human68k hupair R executable
+
+# IBM6000
+1	s	<aiaff>	IBM6000 archive
+1	s	<bigaf>	IBM6000 archive (big format)
+
+# IDA Pro
+1-128	s	#include <idc.idc>	IDA Pro IDC script
+1	s	IDAIDS	IDA Pro IDS imported names data
+1	s	IDASGN	IDA Pro signature data
+1	s	IDATIL	IDA Pro type library data
+1	s	IDACLR	IDA Pro color file data
+
+# iff
+1	s	FORM	IFF data
+9	s	AIFF	IFF data, AIFF audio
+9	s	AIFC	IFF data, AIFF-C compressed audio
+9	s	8SVX	IFF data, 8SVX 8-bit sampled sound voice
+9	s	16SV	IFF data, 16SV 16-bit sampled sound voice
+9	s	SAMP	IFF data, SAMP sampled audio
+9	s	MAUD	IFF data, MAUD MacroSystem audio
+9	s	SMUS	IFF data, SMUS simple music
+9	s	CMUS	IFF data, CMUS complex music
+9	s	ILBMBMHD	IFF data, ILBM interleaved image
+9	s	RGBN	IFF data, RGBN 12-bit RGB image
+9	s	RGB8	IFF data, RGB8 24-bit RGB image
+9	s	DEEP	IFF data, DEEP TVPaint/XiPaint image
+9	s	DR2D	IFF data, DR2D 2-D object
+9	s	TDDD	IFF data, TDDD 3-D rendering
+9	s	LWOB	IFF data, LWOB 3-D object
+9	s	LWO2	IFF data, LWO2 3-D object, v2
+9	s	LWLO	IFF data, LWLO 3-D layered object
+9	s	REAL	IFF data, REAL Real3D rendering
+9	s	MC4D	IFF data, MC4D MaxonCinema4D rendering
+9	s	ANIM	IFF data, ANIM animation
+9	s	YAFA	IFF data, YAFA animation
+9	s	SSA 	IFF data, SSA super smooth animation
+9	s	ACBM	IFF data, ACBM continuous image
+9	s	FAXX	IFF data, FAXX fax image
+9	s	FTXT	IFF data, FTXT formatted text
+9	s	CTLG	IFF data, CTLG message catalog
+9	s	PREF	IFF data, PREF preferences
+9	s	DTYP	IFF data, DTYP datatype description
+9	s	PTCH	IFF data, PTCH binary patch
+9	s	AMFF	IFF data, AMFF AmigaMetaFile format
+9	s	WZRD	IFF data, WZRD StormWIZARD resource
+9	s	DOC 	IFF data, DOC desktop publishing document
+9	s	IFRS	IFF data, Blorb Interactive Fiction
+25	s	Exec	IFF data, Blorb Interactive Fiction with executable chunk
+9	s	IFZS	IFF data, Z-machine or Glulx saved game file (Quetzal)
+
+# Image files
+7	s	JFIF	JPEG image (JFIF)
+7	s	Exif	JPEG image (EXIF)
+1	s	hsi1	JPEG image data, HSI proprietary
+1	s	GIF8	GIF image data
+1	s	GIF87a	GIF image (version 87a)
+1	s	GIF89a	GIF image (version 89a)
+1	s	GIF89ak	ZIF image (GIF+deflate alpha)
+1	s	GIF94z	ZIF image (GIF+deflate alpha)
+1	s	FGF95a	FGF image (GIF+deflate beta)
+2	s	PNG	PNG image
+1	s	SCRSHOT_	FreeBSD scrshot(1) screenshot
+1	s	.MDA	MicroDesign data
+1	s	.MDP	MicroDesign page data
+1	s	IIN1	NIFF image data
+1	s	MM	TIFF image data, big-endian
+1	s	II	TIFF image data, little-endian
+1	s	PBF	PBF image (deflate compression)
+1	s	id=ImageMagick	MIFF image data
+1	s	#FIG	FIG image text
+1	s	ARF_BEGARF	PHIGS clear text archive
+1	s	@(#)SunPHIGS	SunPHIGS
+41	s	SunBin	SunPHIGS binary
+33	s	archive	SunPHIGS archive
+1	s	GKSM	GKS Metafile
+25	s	SunGKS	GKS Metafile, SunGKS
+1	s	BEGMF	clear text Computer Graphics Metafile
+1	s	yz	MGR bitmap, modern format, 8-bit aligned
+1	s	zz	MGR bitmap, old format, 1-bit deep, 16-bit aligned
+1	s	xz	MGR bitmap, old format, 1-bit deep, 32-bit aligned
+1	s	yx	MGR bitmap, modern format, squeezed
+1	s	%bitmap	FBM image data
+1	s	PC Research, Inc	group 3 fax data
+1	s	Sfff	structured fax file
+1	s	BM	PC bitmap
+1	s	IC	PC icon data
+1	s	PI	PC pointer image data
+1	s	CI	PC color icon data
+1	s	CP	PC color pointer image data
+1	s	BA	PC bitmap array data
+1	s	/* XPM */	X pixmap image text
+1	s	Imagefile version-	iff image data
+1	s	IT01	FIT image data
+1	s	IT02	FIT image data
+2049	s	PCD_IPI	Kodak Photo CD image pack file
+1	s	PCD_OPA	Kodak Photo CD overview pack file
+1	s	SIMPLE 	FITS image data
+1	s	This is a BitMap file	Lisp Machine bit-array-file
+129	s	DICM	DICOM medical imaging data
+1	s	NJPL1I00	PDS (JPL) image data
+3	s	NJPL1I	PDS (JPL) image data
+1	s	CCSD3ZF	PDS (CCSD) image data
+3	s	CCSD3Z	PDS (CCSD) image data
+1	s	PDS_	PDS image data
+1	s	LBLSIZE=	PDS (VICAR) image data
+1	s	pM85	Atari ST STAD bitmap image data (hor)
+1	s	pM86	Atari ST STAD bitmap image data (vert)
+1	s	8BPS	Adobe Photoshop Image
+1	s	P7 332	XV thumbnail image data
+1	s	NITF	National Imagery Transmission Format
+3	s	SMJPEG	SMJPEG
+1	s	Paint Shop Pro Image File	Paint Shop Pro Image File
+1	s	P7 332	XV "thumbnail file" (icon) data
+1	s	KiSS	KISS/GS
+1	s	CKD_P370	Hercules CKD DASD image file
+1	s	CKD_C370	Hercules compressed CKD DASD image file
+1	s	CKD_S370	Hercules CKD DASD shadow file
+1-64	s	Squeak	Squeak program text
+1	s	PaRtImAgE-VoLuMe	PartImage
+2-6	s	MRM	Minolta Dimage camera raw image data
+1	s	AT&TFORM	DjVu image or document
+13	s	DJVM	DjVu multiple page document
+13	s	DJVU	DjVu image or single page document
+13	s	DJVI	DjVu shared document
+13	s	THUM	DjVu page thumbnails
+1	s	CDF	NetCDF Data Format data
+2	s	HDF	Hierarchical Data Format (version 5) data
+1	s	XARA	Xara graphics file
+1	s	CPC	Cartesian Perceptual Compression image
+1	s	C565	OLPC firmware icon image data
+1	s	XPCOM.TypeLib	XPCOM type library
+1	s	<map 	FreeMind map image
+1	s	Gamebryo File Format	Gamebryo File Format
+1	s	–œ	MS Windows directory thumbs database
+
+# Intel
+6	s	USB	BIOS (ia32) ROM Extension, USB
+8	s	LDR	BIOS (ia32) ROM Extension, UNDI image
+31	s	IBM	BIOS (ia32) ROM Extension, IBM comp. Video
+27	s	Adaptec	BIOS (ia32) ROM Extension, Adaptec
+29	s	Adaptec	BIOS (ia32) ROM Extension, Adaptec
+43	s	PROMISE	BIOS (ia32) ROM Extension, Promise
+
+# Interleaf TPS
+2-8	s	OPS	Interleaf saved data
+2-12	s	<!OPS	Interleaf document text
+
+# IslandWite/IslandDraw
+5	s	pgscriptver	IslandWrite document
+14	s	DrawFile	IslandDraw document
+
+# Ispell
+1	s	ISPL	ispell
+
+# Java
+1	s	dex	Dalvik dex file
+1	s	dey	Dalvik dex file (optimized for host)
+
+# Karma
+1	s	KarmaRHD Version	Karma Data Structure Version
+
+# KDE
+1	s	[KDE Desktop Entry]	KDE desktop entry
+1	s	# KDE Config File	KDE config file
+1	s	# xmcd	xmcd database file for kscd
+
+# KOffice (1.2 or above) formats
+51	s	vnd.kde.karbon	KOffice (>=1.2) Karbon document
+51	s	vnd.kde.kchart	KOffice (>=1.2) KChart document
+51	s	vnd.kde.kformula	KOffice (>=1.2) KFormula document
+51	s	vnd.kde.kivio	KOffice (>=1.2) Kivio document
+51	s	vnd.kde.kontour	KOffice (>=1.2) Kontour document
+51	s	vnd.kde.kpresenter	KOffice (>=1.2) KPresenter document
+51	s	vnd.kde.kspread	KOffice (>=1.2) KSpread document
+51	s	vnd.kde.kword	KOffice (>=1.2) KWord document
+
+# Lecter
+1	s	lect	DEC SRC Virtual Paper Lectern file
+
+# Lex
+1-128	s	yyprevious	C program text (from lex)
+1-128	s	generated by flex	C program text (from flex)
+1-32	s	%{	lex description text
+
+# Linux
+4087	s	SWAPSPACE2	Linux/i386 swap file (new style)
+515	s	HdrS	Linux kernel
+484	s	Loading	Linux Kernel version 1.3.79 or older
+490	s	Loading	Linux Kernel (very old)
+9	s	 A _text	Linux kernel symbol map text
+1	s	Begin3	Linux Software Map entry text
+1	s	Begin4	Linux Software Map entry text (new format)
+6	s	.	Linux-Dev86 executable, headerless
+1	s	OOOM	User-Mode-Linux's Copy-On-Write disk image
+1	s	HM	LVM1 (Linux Logical Volume Manager)
+537	s	LVM2 	LVM2 (Linux Logical Volume Manager)
+1	s	SnAp	LVM Snapshot (CopyOnWrite store)
+1	s	LUKS	LUKS encrypted file
+1	s	LinuxGuestRecord	Xen saved domain
+
+# Lisp programs
+1-264	s	(if 	Lisp/Scheme program text
+1-264	s	(setq 	Lisp/Scheme program text
+1-264	s	(defvar 	Lisp/Scheme program text
+1-264	s	(defparam 	Lisp/Scheme program text
+1-264	s	(defun 	Lisp/Scheme program text
+1-264	s	(autoload 	Lisp/Scheme program text
+1-264	s	(custom-set-variables 	Lisp/Scheme program text
+1	s	;ELC	Emacs/XEmacs v%d byte-compiled Lisp data
+1	s	(SYSTEM::VERSION	CLISP byte-compiled Lisp program (pre 2004-03-27)
+1	s	(|SYSTEM|::|VERSION|	CLISP byte-compiled Lisp program text
+1-32	s	<TeXmacs|	TeXmacs document text
+
+# llvm
+1	s	llvm	LLVM byte-codes, uncompressed
+1	s	llvc0	LLVM byte-codes, null compression
+1	s	llvc1	LLVM byte-codes, null compression
+1	s	llvc2	LLVM byte-codes, bzip2 compression
+
+# lua
+1-32	s	/usr/bin/lua	Lua script text executable
+1-32	s	/usr/local/bin/lua	Lua script text executable
+1-32	s	/usr/bin/env lua	Lua script text executable
+1-32	s	/usr/bin/env lua	Lua script text executable
+2	s	Lua	Lua bytecode
+
+# Luks
+1	s	LUKS	LUKS encrypted file
+
+# Magic
+1	s	# Magic	magic text file for file(1) cmd
+
+# Mail and Usenet news
+1	s	Relay-Version:	old news text
+1	s	#! rnews	batched news text
+1	s	N#! rnews	mailed, batched news text
+1	s	Forward to	mail forwarding text
+1	s	Pipe to	mail piping text
+1	s	Return-Path:	smtp mail text
+1	s	Path:	news text
+1	s	Xref:	news text
+1	s	From:	news or mail text
+1	s	Article	saved news text
+1	s	BABYL	Emacs RMAIL text
+1	s	Received:	RFC 822 mail text
+1	s	MIME-Version:	MIME entity text
+1	s	Content-	MIME entity text
+1	s	*mbx*	MBX mail folder
+4-16	s	skiplist file	Cyrus skiplist DB
+1	s	JAM	JAM message area header file
+1	s	<!-- MHonArc	text/html; x-type=mhonarc
+
+# Maple
+2	s	MVR4	MapleVr4 library
+1	s	<PACKAGE=	Maple help file
+1	s	<HELP NAME=	Maple help file
+2-24	s	<HELP NAME=	Maple help file with extra carriage return at start
+1	s	# Newton	Maple help file, old style
+1	s	# daub	Maple help file, old style
+1	s	#===========	Maple help file, old style
+1	s	WriteNow	Maple worksheet, but weird
+1	s	{VERSION 	Maple worksheet
+2-24	s	 <SHAREFILE=	Maple something
+4-24	s	 <DESCRIBE>	Maple something anomalous
+
+# Mathematica
+1	s	.MCAD	Mathcad document
+2-56	s	frontEndVersion	Mathematica notebook
+2-56	s	palette	Mathematica notebook version 2.x
+2-56	s	Information	Mathematica notebook version 2.x
+1	s	(*	Mathematica, or Pascal, Modula-2 or 3 code text
+1	s	(*This is a Mathematica binary	Mathematica binary file
+1	s	MMAPBF	Mathematica PBF
+5	s	 A~	Mathematica .ml file
+1	s	(***********************	Mathematica 3.0 notebook
+1	s	MATLAB	Matlab v5 mat-file
+
+# Mercurial changeset bundles
+1	s	HG10	Mercurial changeset bundle
+1	s	HG10UN	Mercurial changeset bundle, uncompressed
+1	s	HG10GZ	Mercurial changeset bundle, gzip compressed
+1	s	HG10BZ	Mercurial changeset bundle, bzip2 compressed
+
+# Microsoft Visual C
+1	s	HWB	Microsoft Visual C .APS file
+1	s	DTJPCH0	Microsoft Visual C .pch
+1	s	Microsoft C/C++	MSVC program database
+1	s	1.00 .0000.0000	MSVC .wsp version 1.0000.0000
+
+# Microsoft Visial Basic
+1	s	Attribute VB_Name	Microsoft Visual Basic 6.0 module file
+12-512	s	Begin VB.Form	Microsoft Visual Basic 6.0 form file
+1	s	Type=Exe	Microsoft Visual Basic 6.0 Project (EXE file)
+16-128	s	, C	Microsoft Visual Basic 6.0 Project Workspace
+1	s	Line 	Microsoft Visual Basic 6.0 log file
+
+# MIME
+1	s	Content-Type:	MIME encoded file
+
+# MIPS
+1	s	kbd!map	kbd map file
+1	s	SGIAUDIT	SGI Audit file
+1	s	WNGZWZSC	Wingz compiled script
+1	s	WNGZWZSS	Wingz spreadsheet
+1	s	WNGZWZHP	Wingz help file
+1	s	#Inventor V	IRIS Inventor 1.0 file
+1	s	#Inventor V2	Open Inventor 2.0 file
+1	s	glfHeadMagic();	GLF_TEXT
+1	s	glsBeginGLS(	GLS_TEXT
+
+# Misc
+1	s	=!!	Bennet Yee's "face" format
+1	s	CDBURNERXP3CDDVDLAYOUT	CDBurnerXP Pro project list
+#1	s	‡	eMule download temporary file
+
+# Modem programs
+5	s	Research,	Digifax-G3-File
+1	s	RMD1	raw modem data
+1	s	PVF1	portable voice format 1, binary data
+1	s	PVF2	portable voice format 2, ascii data
+
+# Motorola
+169	s	.lowmem	mc68k COFF, Apple toolbox
+1	s	S0	Motorola S-Record, binary data in text format
+31	s	SFX	Atari 68xxx executable, self-extracting LZH SFX archive	
+39	s	SFX	Atari 68xxx executable, self-extracting LZH SFX archive
+45	s	ZIP!	Atari 68xxx executable, self-extracting ZIP SFX archive
+
+# Mozilla
+1	s	XPCOM	Mozilla XUL fastload data
+
+# MS DOS and Windows files
+1-64	s	echo off	MS-DOS batch file text
+1-64	s	ECHO OFF	MS-DOS batch file text
+1-64	s	rem	MS-DOS batch file text, including remarks
+1-64	s	REM	MS-DOS batch file text, including remarks
+1-64	s	set	MS-DOS batch file text
+1-64	s	SET	MS-DOS batch file text
+1	s	MZ	MS-DOS executable
+1-64	s	PE	PE for MS Windows
+64-128	s	This program cannot be run in DOS mode.	MS Windows program
+1	s	PAGEDUMP	MS Windows 32bit crash dump
+1	s	PAGEDU64	MS Windows 64bit crash dump
+1	s	ElfFile	MS Windows Vista Event Log
+>1	s	UPX0	UPX compressed
+>1	s	PEC2	PECompact2 compressed
+#>1024	s	ZZ0	ZZip self-extracting archive
+#>1024	s	ZZ1	ZZip self-extracting archive
+>2048	s	Rar!	RAR self-extracting archive
+>2048	s	MSCF	InstallShield self-extracting archive
+>2048	s	Nullsoft	Nullsoft Installer self-extracting archive
+>2048	s	WEXTRACT	MS CAB-Installer self-extracting archive
+>2048	s	.petite	Petite compressed
+>2048	s	=!sfx!	ACE self-extracting archive
+>2048	s	.WISE	WISE installer self-extracting archive
+#>2048	s	.dz	Dzip self-extracting archive
+>2048	s	_winzip_	ZIP self-extracting archive (WinZip)
+>2048	s	SharedD	Microsoft Installer self-extracting archive
+49	s	Inno	InnoSetup self-extracting archive
+>2048	s	ARJSFX	ARJ self-extracting archive
+>2048	s	WinZip(R) Self-Extractor	ZIP self-extracting archive (WinZip)
+>2048	s	arjsfx	ARJ self-extracting archive
+577-1024	s	DOS/4G	DOS/4G for MS-DOS, DOS4GW DOS extender
+577-2048	s	WATCOM	C/C++ for MS-DOS, DOS4GW DOS extender
+1089-2048	s	CauseWay DOS	Extender for MS-DOS, CauseWay DOS extender
+65-192	s	PMODE/W	PMODE/W for MS-DOS, PMODE/W DOS extender
+65-192	s	STUB/32A	STUB/32A for MS-DOS, DOS/32A DOS extender (stub)
+65-256	s	STUB/32C	STUB/32C for MS-DOS, DOS/32A DOS extender (configurable stub)
+65-256	s	DOS/32A	DOS/32A for MS-DOS, DOS/32A DOS extender (embedded)
+127	s	LH/2 Self-Extract	LH/2 Self-Extract
+29	s	diet	diet compressed
+29	s	LZ09	LZEXE v0.90 compressed
+29	s	LZ91	LZEXE v0.91 compressed
+29	s	tz	TinyProg compressed
+31	s	PKLITE	PKLITE compressed
+101	s	W Collis	Compack compressed
+37	s	LHa's SFX	LHa self-extracting archive
+37	s	LHA's SFX	LHa self-extracting archive
+37	s	 $ARX	ARX self-extracting archive
+37	s	 $LHarc	LHarc self-extracting archive
+33	s	SFX by LARC	LARC self-extracting archive
+1639	s	-lh5-	LHa self-extracting archive v2.13S
+96393	s	Rar!	RAR self-extracting archive
+65	s	aPKG	aPackage self-extracting archive
+33	s	AIN	AIN compressed
+33	s	AIN1	AIN 1.x compressed
+33	s	AIN2	AIN 2.x compressed
+29	s	UC2X	UCEXE compressed
+29	s	WWP 	WWPACK compressed
+29	s	RJSX	ARJ self-extracting archive
+33-256	s	aRJsfX	ARJ self-extracting archive
+123	s	s	Windows self-extracting ZIP	ZIP self-extracting archive
+7	s	SFX of LHarc	DOS executable (COM), SFX of LHarc
+86	s	UPX	DOS executable (COM), UPX compressed
+5	s	 $ARX	DOS executable (COM), ARX self-extracting archive
+5	s	 $LHarc	DOS executable (COM), LARC self-extracting archive
+527	s	SFX by LARC	LARC self-extracting archive
+37	s	UPX!	FREE-DOS executable (COM), UPX compressed
+253	s	Must have DOS version	DR-DOS executable (COM)
+61	s	W Collis	COM executable for MS-DOS, Compack compressed
+1	s	LZ	MS-DOS executable (built-in)
+2081	s	Microsoft Word 6.0 Document	Microsoft Word 6.0 document data
+2081	s	Documento Microsoft Word 6	Microsoft Word 6 document data, spanish
+2113	s	MSWordDoc	Microsoft Word document data
+1	s	PO^Q`	Microsoft Word 6.0 document data
+2081	s	Microsoft Excel 5.0 Worksheet	Microsoft Excel 5.0 worksheet
+2081	s	Foglio di lavoro Microsoft Exce	Microsoft Excel 5.0 worksheet, spanish
+2115	s	Biff5	Microsoft Excel 5.0 worksheet
+2121	s	Biff5	Microsoft Excel 5.0 worksheet, italian
+1	s	WordPro	Lotus WordPro
+13	s	Stirling Technologies	InstallShield Uninstall Script
+1	s	Nullsoft AVS Preset	Winamp plug-in
+1	s	MDIF	MS Windows special zipped file
+5	s	BGI	Borland font or device
+#1	s	PK	Borland font
+1	s	pk	Borland device
+10	s	GERBILDOC	First Choice document
+10	s	GERBILDB	First Choice database
+10	s	GERBILCLIP	First Choice database
+1	s	GERBIL	First Choice device file
+10	s	RABBITGRAPH	RabbitGraph file
+1	s	DCU1	Borland Delphi .DCU file
+1	s	=!<spell>	MKS Spell hash list (old format)
+1	s	=!<spell2>	MKS Spell hash list
+1	s	AH	Halo(TM) bitmapped font file
+1	s	ITSF	MS Windows HtmlHelp data
+3	s	GFA-BASIC3	GFA-BASIC 3 data
+1	s	MSCF	Microsoft Cabinet archive data
+1	s	ISc(	InstallShield Cabinet archive data
+41	s	 EMF	Windows Enhanced Metafile (EMF) image data
+1	s	COWD	VMWare3
+1	s	VMDK	VMware4 disk image
+1	s	KDMV	VMware4 disk image
+1	s	QFI	Qemu Image, Format: Qcow
+1	s	QEVM	QEMU's suspend to disk image
+1	s	Bochs Virtual HD Image	Bochs disk image
+547	s	bjbj	Microsoft Word Document
+547	s	jbjb	Microsoft Word Document
+513	s	R	Microsoft Word Document
+24	s	Dell	Dell system BIOS
+1	s	DDS	Microsoft DirectDraw Surface (DDS)
+1	s	ITOLITLS	Microsoft Reader eBook Data
+1	s	ElfFile	MS Windows Vista Event Log
+1	s	HyperTerminal	MS Windows HyperTerminal profile
+1	s	Client UrlCache MMF	Internet Explorer cache file
+1	s	regf	MS Windows registry file, NT/2000 or above
+1	s	CREG	MS Windows 95/98/ME registry file
+1	s	SHCC3	MS Windows 3.1 registry file
+1	s	REGEDIT4	Windows Registry text (Win95 or above)
+1	s	Windows Registry Editor	Windows Registry text (Win2K or above)
+1	s	[InternetShortcut]	Windows Internet shortcut url file
+
+# MSC (ITU-T Z.120)
+1	s	msc	Message Sequence Chart (chart)
+1	s	mscdocument	Message Sequence Chart (document)
+1	s	submsc	Message Sequence Chart (subchart)
+
+# MUP
+1	s	//!Mup	Mup music publication program input text
+7	s	-Arkkra	Mup music publication program input text, Arkkra
+
+# National Instruments Code Files
+1	s	RSRC	National Instruments
+9	s	LV	National Instruments, LabVIEW File
+9	s	LVSB	National Instruments, LabVIEW File, Code Resource File, data
+9	s	LVIN	National Instruments, LabVIEW File, Virtual Instrument Program, data
+9	s	LVAR	National Instruments, LabVIEW File, VI Library, data
+9	s	LMNULBVW	National Instruments, Portable File Names, data
+9	s	rsc	National Instruments, Resources File, data
+1	s	VMAP	National Instruments, VXI File, data
+
+# Netscape
+1	s	SX961999	Net2phone
+1	s	JG	ART
+
+# NetWare
+1	s	NetWare Loadable Module	NetWare Loadable Module
+
+# Network monitoring files
+1	s	RTSS	NetMon 1.x capture file
+1	s	GMBU	NetMon 2.x capture file
+1	s	TRSNIFF data	Sniffer capture file
+1	s	XCP	NetXRay capture file
+1	s	iptrace 1.0	"iptrace 1.0" capture file
+1	s	iptrace 2.0	"iptrace 2.0" capture file
+1	s	NetS	NetStumbler log file
+2	s	ver	EtherPeek/AiroPeek capture file
+2	s	VNF	Visual Networks traffic capture file
+1	s	ObserverPktBuffe	Network Instruments Observer capture file
+
+# Objective Caml files
+1	s	Caml1999	Objective caml
+1	s	Caml1999X	Objective caml, exec file
+1	s	Caml1999I	Objective caml, interface file (.cmi)
+1	s	Caml1999O	Objective caml, object file (.cmo)
+1	s	Caml1999A	Objective caml, library file (.cma)
+1	s	Caml1999Y	Objective caml, native object file (.cmx)
+1	s	Caml1999Z	Objective caml, native library file (.cmxa)
+1	s	Caml1999M	Objective caml, abstract syntax tree implementation file
+1	s	Caml1999N	Objective caml, abstract syntax tree interface file
+
+# Octave
+1	s	Octave-1-L	Octave binary data (little endian)
+1	s	Octave-1-B	Octave binary data (big endian)
+
+# OLF
+2	s	OLF	OLF
+
+# OS/2
+1	s	InternetShortcut	MS Windows 95 Internet shortcut text
+1	s	HSP	OS/2 INF or HLP
+
+# OpenOffice formats (OpenOffice 1.x / StarOffice 6/7)
+51	s	vnd.sun.xml.writer	OpenOffice.org 1.x Writer
+51	s	vnd.sun.xml.writer.template	OpenOffice.org 1.x Writer template
+51	s	vnd.sun.xml.writer.global	OpenOffice.org 1.x Writer global document
+51	s	vnd.sun.xml.calc	OpenOffice.org 1.x Calc
+51	s	vnd.sun.xml.calc.template	OpenOffice.org 1.x Calc template
+51	s	vnd.sun.xml.draw	OpenOffice.org 1.x Draw
+51	s	vnd.sun.xml.draw.template	OpenOffice.org 1.x Draw template
+51	s	vnd.sun.xml.impress	OpenOffice.org 1.x Impress
+51	s	vnd.sun.xml.impress.template	OpenOffice.org 1.x Impress template
+51	s	vnd.sun.xml.math	OpenOffice.org 1.x Math document
+51	s	vnd.sun.xml.base	OpenOffice.org 1.x Database file
+
+# OpenDocument formats (OpenOffice 2.x and StarOffice >= 8)
+# http://lists.oasis-open.org/archives/office/200505/msg00006.html
+51	s	vnd.oasis.opendocument.	OpenDocument
+51	s	vnd.oasis.opendocument.text	OpenDocument text
+51	s	vnd.oasis.opendocument.text-template	OpenDocument text template
+51	s	vnd.oasis.opendocument.text-web	OpenDocument HTML document template
+51	s	vnd.oasis.opendocument.text-master	OpenDocument Master document
+51	s	vnd.oasis.opendocument.graphics	OpenDocument drawing
+51	s	vnd.oasis.opendocument.graphics-template	OpenDocument drawing template
+51	s	vnd.oasis.opendocument.presentation	OpenDocument presentation
+51	s	vnd.oasis.opendocument.presentation-template	OpenDocument presentation template
+51	s	vnd.oasis.opendocument.spreadsheet	OpenDocument spreadsheet
+51	s	vnd.oasis.opendocument.spreadsheet-template	OpenDocument spreadsheet template
+51	s	vnd.oasis.opendocument.chart	OpenDocument chart
+51	s	vnd.oasis.opendocument.chart-template	OpenDocument chart template
+51	s	vnd.oasis.opendocument.formula	OpenDocument formula
+51	s	vnd.oasis.opendocument.formula-template	OpenDocument formula template
+51	s	vnd.oasis.opendocument.database	OpenDocument database
+51	s	vnd.oasis.opendocument.image	OpenDocument image
+
+# Palm
+61	s	BVokBDIC	BDicty PalmOS document
+61	s	DB99DBOS	DB PalmOS document
+61	s	vIMGView	FireViewer/ImageViewer PalmOS document
+61	s	PmDBPmDB	HanDBase PalmOS document
+61	s	InfoINDB	InfoView PalmOS document
+61	s	ToGoToGo	iSilo PalmOS document
+61	s	JfDbJBas	JFile PalmOS document
+61	s	JfDbJFil	JFile Pro PalmOS document
+61	s	DATALSdb	List PalmOS document
+61	s	Mdb1Mdb1	MobileDB PalmOS document
+61	s	PNRdPPrs	PeanutPress PalmOS document
+61	s	DataPlkr	Plucker PalmOS document
+61	s	DataSprd	QuickSheet PalmOS document
+61	s	SM01SMem	SuperMemo PalmOS document
+61	s	TEXtTlDc	TealDoc PalmOS document
+61	s	InfoTlIf	TealInfo PalmOS document
+61	s	DataTlMl	TealMeal PalmOS document
+61	s	DataTlPt	TealPaint PalmOS document
+61	s	dataTDBP	ThinkDB PalmOS document
+61	s	TdatTide	Tides PalmOS document
+61	s	ToRaTRPW	TomeRaider PalmOS document
+61	s	zTXT	A GutenPalm zTXT e-book
+61	s	libr	Palm OS dynamic library data
+61	s	ptch	Palm OS operating system patch data
+61	s	BOOKMOBI	Mobipocket E-book
+
+# Perl programs
+3-32	s	/bin/perl	Perl script text executable
+4-32	s	exec /bin/perl	Perl script text
+3-32	s	/usr/bin/perl	Perl script text executable
+4-32	s	exec /usr/bin/perl	Perl script text
+3-32	s	/usr/local/bin/perl	Perl script text executable
+4-32	s	exec /usr/local/bin/perl	Perl script text
+1-32	s	package	Perl5 module source text
+4-64	s	pod	Perl POD document text
+4-64	s	head1	Perl POD document text
+4-64	s	head2	Perl POD document text
+1	s	perl-store	perl Storable (v0.6) data
+1	s	pst0	perl Storable (v0.7) data
+
+# PHP scripts
+1	s	<?	PHP script
+1	s	<?php	PHP script
+1-64	s	/*	C, PHP or REXX program text (including comments)
+1-64	s	//	C++ or PHP program text (including comments)
+1	s	cscope	cscope reference data
+1	s	Zend	PHP script Zend Optimizer data
+
+# Programming languages
+1	s	/* XPM */	X pixmap image data
+1	s	$!	DCL command file
+1	s	c 	FORTRAN program
+1	s	gpch	GCC precompiled header
+1	s	<%	ASP script
+
+# PGP
+1	s	-----BEGIN	PGP message or signature
+3	s	---BEGIN PGP PUBLIC KEY BLOCK-	PGP public key block
+16	s	PUBLIC	PGP public key block
+16	s	MESSAGE-	PGP message
+16	s	SIGNED-	PGP signed message
+20	s	SIGNATURE-	PGP signature
+
+# pkgadd
+1	s	# PaCkAgE DaTaStReAm	pkg Datastream (SVR4)
+
+# Printer
+1	s	%!	PostScript document text
+1	s	%!PS-Adobe-	PostScript document text, conforming
+16	s	EPS	PostScript document text, conforming, EPS type
+16	s	Query	PostScript document text, conforming, Query type
+16	s	ExitServer	PostScript document text, conforming, ExitServer type
+16-1056	s	%%LanguageLevel:	PostScript document text, conforming
+4	s	PS-Adobe-	PostScript document text, conforming
+17	s	EPS	PostScript document text, conforming, EPS type
+17	s	Query	PostScript document text, conforming, Query type
+17	s	ExitServer	PostScript document text, conforming, ExitServer type
+1	s	*PPD-Adobe:	PPD file
+2	s	%-12345X@PJL	HP Printer Job Language data
+32	s	PostScript	HP Printer Job Language data, PostScript
+1	s	@document(	Imagen printer
+1	s	@document(language impress	Imagen printer, imPRESS data
+1	s	@document(language daisy	Imagen printer, daisywheel text
+1	s	@document(language diablo	Imagen printer, daisywheel text
+1	s	@document(language printer	Imagen printer, line printer emulation
+1	s	@document(language tektronix	Imagen printer, Tektronix 4014 emulation
+1	s	Rast	RST-format raster font data
+2	s	[K	Canon Bubble Jet BJC formatted data
+9	s	REMOTE1P	Epson Stylus Color 460 data
+1	s	JZJZ	Zenographics ZjStream printer data (big-endian)
+1	s	ZJZJ	Zenographics ZjStream printer data (little-endian)
+1	s	OAK	Oak Technologies printer stream
+1	s	%!VMF	SunClock's Vector Map Format data
+3	s	ABCDEFGH	HP LaserJet 1000 series downloadable firmware
+3	s	@EJL	Epson ESC/Page language printer data
+
+# Project management
+1	s	FTNCHEK_ P	project file for ftnchek
+1	s	FTNCHEK_ P1	project file for ftnchek, version 2.7
+1	s	FTNCHEK_ P2	project file for ftnchek, version 2.8 to 2.10
+1	s	FTNCHEK_ P3	project file for ftnchek, version 2.11 or later
+
+# RISC OS files
+1	s	Draw	RISC OS Draw file data
+1	s	FONT	RISC OS outline font data
+1	s	Maestro	RISC OS music file
+
+# RIFF multimedia files
+1	s	RIFF	RIFF (little-endian) data
+1	s	RIFFRDIB	RIFF (little-endian) data, device-independent bitmap
+1	s	RIFFRMID	RIFF (little-endian) data, MIDI
+1	s	RIFFRMMP	RIFF (little-endian) data, multimedia movie
+1	s	RIFFRMP3	RIFF (little-endian) data, MPEG Layer 3 audio
+1	s	RIFFWAVE	RIFF (little-endian) data, WAVE audio
+1	s	RIFFCDRA	RIFF (little-endian) data, Corel Draw Picture
+1	s	RIFFAVI	RIFF (little-endian) data, AVI
+1	s	RIFFACON	RIFF (little-endian) data, animated cursor
+1	s	RIFFsfbk	RIFF (little-endian) data, SoundFont/Bank
+1	s	RIFFCDXA	RIFF (little-endian) data, wrapped MPEG-1 (CDXA)
+1	s	RIFF4XMV	RIFF (little-endian) data, 4X Movie file 
+1	s	RIFX	RIFF (big-endian) data
+1	s	RIFXPAL	RIFF (big-endian) data, palette
+1	s	RIFXRDIB	RIFF (big-endian) data, device-independent bitmap
+1	s	RIFXRMID	RIFF (big-endian) data, MIDI
+1	s	RIFXRMMP	RIFF (big-endian) data, multimedia movie
+1	s	RIFXWAVE	RIFF (big-endian) data, WAVE audio
+1	s	RIFXCDRA	RIFF (big-endian) data, Corel Draw Picture
+1	s	RIFXAVI	RIFF (big-endian) data, AVI
+1	s	RIFXACON	RIFF (big-endian) data, animated cursor
+1	s	RIFXNIFF	RIFF (big-endian) data, Notation Interchange File Format
+1	s	RIFXsfbk	RIFF (big-endian) data, SoundFont/Bank
+9	s	WAVE	RIFF data, WAVE audio
+
+# RTF documents
+1	s	{\rtf1\	Rich Text Format data
+1	s	{\rtf1\1	Rich Text Format data, version 1
+1	s	{\rtf1\1\ansi	Rich Text Format data, version 1, ANSI
+1	s	{\rtf1\1\mac	Rich Text Format data, version 1, Apple Macintosh
+1	s	{\rtf1\1\pc	Rich Text Format data, version 1, IBM PC, code page 437
+1	s	{\rtf1\1\pca	Rich Text Format data, version 1, IBM PS/2, code page 850
+
+# Ruby programs
+3-32	s	/usr/bin/ruby	Ruby script text executable
+3-32	s	/usr/local/bin/ruby	Ruby script text executable
+3-32	s	/usr/bin/env ruby	Ruby script text executable
+
+# sc spreadsheet
+39	s	Spreadsheet	sc spreadsheet file
+
+# Scientific files
+1	s	MTZ	MTZ reflection file
+93	s	PLOT%%84	Plot84 plotting file
+1	s	EZD_MAP	NEWEZD Electron Density Map
+110	s	MAP	Old EZD Electron Density Map
+1	s	:-)	BRIX Electron Density Map
+4	s	!NTITLE	XPLOR ASCII Electron Density Map
+11	s	!NTITLE	CNS ASCII electron density map
+209	s	MAP	CCP4 Electron Density Map
+1	s	R-AXIS4  	R-Axis Area Detector Image:
+1	s	RAXIS   	R-Axis Area Detector Image, Win32
+1029	s	MMX	MAR Area Detector Image
+1-32	s	0 HEAD	GEDCOM genealogy text
+
+# Security Certificates
+1-64	s	-----BEGIN CERTIFICATE------	RFC1421 Security Certificate text
+1-64	s	-----BEGIN NEW CERTIFICATE	RFC1421 Security Certificate Signing Request text
+
+# Sendmail
+1	s	divert(-1)	sendmail m4 text file
+
+# SGI
+1	s	PmNs	PCP compiled namespace (V.0)
+1	s	PmN	PCP compiled namespace
+1	s	PCPFolio	PCP
+1	s	PCPFolioVersion:	PCP, Archive Folio
+1	s	#pmchart	PCP pmchart view
+1	s	#kmchart	PCP kmchart view
+1	s	pmview	PCP pmview config
+1	s	#pmlogger	PCP pmlogger config
+1	s	#pmdahotproc	PCP pmdahotproc config
+1	s	PcPh	PCP Help
+1	s	PcPh1	PCP Help, index
+1	s	PcPh2	PCP Help, text
+1	s	#pmieconf-rules	PCP pmieconf rules
+4	s	pmieconf-pmie	PCP pmie config
+1	s	mdbm	mdbm file
+1	s	//Maya ASCII	Alias Maya Ascii File
+9	s	MAYAFOR4	Alias Maya Binary File
+9	s	MayaFOR4	Alias Maya Binary File
+9	s	CIMG	Alias Maya Image File
+9	s	DEEP	Alias Maya Image File
+
+# SGML
+24-406	s	<svg	SVG Scalable Vector Graphics image
+24-406	s	<gnc-v2	GnuCash file
+1-64	s	<!doctype html	HTML document text
+5-128	s	<head>	HTML document text
+5-128	s	<title>	HTML document text
+1-128	s	<html>	HTML document text
+1-64	s	<HTML>	HTML document text (might be old)
+1-32	s	<?xml	XML document text
+24-64	s	<xsl:stylesheet	XML document text, XSL stylesheet
+1-64	s	<!doctype	exported SGML document text
+1-64	s	<!subdoc	exported SGML subdocument text
+1-64	s	<!--	exported SGML document text
+1-64	s	HTTP Cookie File	Web browser cookie text
+1-64	s	Netscape HTTP Cookie File	Netscape cookie text
+1-64	s	KDE Cookie File	Konqueror cookie text
+
+# sharc
+1	s	Draw	RiscOS Drawfile
+1	s	PACK	RiscOS PackdDir archive
+1	s	=!	Assembler source
+1	s	Analog	ADi asm listing file
+1	s	.SYSTEM	SHARC architecture file
+1	s	.system	SHARC architecture file
+
+# Shell scripts
+3-32	s	/bin/sh	POSIX shell script text executable
+3-32	s	/bin/csh	C shell script text executable
+3-32	s	/bin/ksh	Korn shell script text executable
+3-32	s	/bin/tcsh	Tenex C shell script text executable
+3-32	s	/usr/local/tcsh	Tenex C shell script text executable
+3-32	s	/usr/local/bin/tcsh	Tenex C shell script text executable
+3-32	s	/bin/zsh	Paul Falstad's zsh script text executable
+3-32	s	/usr/bin/zsh	Paul Falstad's zsh script text executable
+3-32	s	/usr/local/bin/zsh	Paul Falstad's zsh script text executable
+3-32	s	/usr/local/bin/ash	Neil Brown's ash script text executable
+3-32	s	/usr/local/bin/ae	Neil Brown's ae script text executable
+3-32	s	/bin/rc	Plan 9 rc shell script text executable
+3-32	s	/bin/bash	Bourne-Again shell script text executable
+3-32	s	/usr/local/bin/bash	Bourne-Again shell script text executable
+3-32	s	/usr/bin/env	script text executable
+3-32	s	/usr/local/bin/php	PHP script text executable
+3-32	s	/usr/bin/php	PHP script text executable
+3-32	s	/bin/nawk	new awk script text executable
+3-32	s	/usr/bin/nawk	new awk script text executable
+3-32	s	/usr/local/bin/nawk	new awk script text executable
+3-32	s	/bin/gawk	GNU awk script text executable
+3-32	s	/usr/bin/gawk	GNU awk script text executable
+3-32	s	/usr/local/bin/gawk	GNU awk script text executable
+3-32	s	/bin/awk	awk script text executable
+3-32	s	/usr/bin/awk	awk script text executable
+>10	s	BEGIN {	awk script text
+
+# sinclair ql
+1	s	=QL5	QL disk dump data
+1	s	=QL5=A	QL disk dump data, 720 KB
+1	s	=QL5=B	QL disk dump data, 1.44 MB
+1	s	=QL5=C	QL disk dump data, 3.2 MB
+1	s	NqNqNq`	QL firmware executable (BCPL)
+
+# Sketch drawing
+1-32	s	##Sketch	Sketch document text
+
+# Smalltalk
+1	s	GSTIm	GNU SmallTalk
+
+# SoftQuad Publishing Software
+1	s	<!SQ DTD>	Compiled SGML rules file
+1	s	<!SQ A/E>	A/E SGML Document binary
+1	s	<!SQ STS>	SGML binary styles file
+1-32	s	SQ BITMAP1	SoftQuad Raster Format text, version 1
+1-32	s	SQ BITMAP2	SoftQuad Raster Format text, version 2
+1	s	X 495	SoftQuad troff Context intermediate for AT&T 495 laser printer
+1	s	X hp	SoftQuad troff Context intermediate for Hewlett-Packard LaserJet
+1	s	X impr	SoftQuad troff Context intermediate for IMAGEN imPRESS
+1	s	X ps	SoftQuad troff Context intermediate for PostScript
+
+# spec
+1	s	spec	SPEC
+1	s	spec.cpu	CPU
+18	s	version=SPECjbb	SPECjbb
+7	s	SPECWEB	SPECweb
+16	s	_SSL	SPECweb_SSL
+
+# spectrum emulator
+1	s	PLUS3DOS	Spectrum +3 data
+16	s	TAPEFILE	Spectrum +3 data, ZXT tapefile
+1	s	ZXTape!	Spectrum .TZX data
+1	s	RZX!	Spectrum .RZX data
+1	s	MV - CPCEMU Disk-Fil	Amstrad/Spectrum .DSK data
+1	s	MV - CPC format Dis	Amstrad/Spectrum DU54 .DSK data
+1	s	EXTENDED CPC DSK Fil	Amstrad/Spectrum Extended .DSK data
+1	s	SINCLAIR	Spectrum .SCL Betadisk image
+1	s	RS-IDE	Spectrum .HDF hard disk image
+
+# SQL
+1	s	iRivDB	iRiver Database file
+40	s	iHP-100	iRiver Database file, H series
+1	s	** This file contains an SQLite	SQLite 2.x database
+1	s	SQLite format 3	SQLite 3.x database
+61	s	_MTN	SQLite 3.x database, Monotone source repository
+
+# Sun
+1	s	#SUNPC_CONFIG	SunPC 4.0 Properties Values
+1	s	snoop	Snoop capture file
+37	s	acspMSFT	Microsoft ICM Color Profile
+37	s	acsp	Kodak Color Management System, ICC Profile
+1	s	Cobalt Networks Inc.	Paged COBALT boot rom
+1	s	CRfs	COBALT boot rom data (Flat boot rom or file system)
+
+# SunOS NeWS fonts
+1	s	StartFontMetrics	ASCII font metrics
+1	s	StartFont	ASCII font bits
+
+# sysex
+1	s	T707	Roland TR-707 Data
+
+# T602 editor
+1	s	@CT 	T602 document data
+1	s	@CT 0	T602 document data, Kamenicky
+1	s	@CT 1	T602 document data, CP 852
+1	s	@CT 2	T602 document data, KOI8-CS
+1	s	VimCrypt~	Vim encrypted file data
+1	s	b0VIM	Vim swap file
+
+# teapot
+1	s	#!teapot	teapot work sheet (XDR format)
+
+# tex
+1-64	s	This is TeX,	TeX transcript text
+1-64	s	This is METAFONT,	METAFONT transcript text
+1-64	s	input texinfo	Texinfo source text
+1-64	s	This is Info file	GNU Info text
+1-408	s	\input	TeX document text
+1-408	s	\section	LaTeX document text
+1-408	s	\setlength	LaTeX document text
+1-408	s	\documentstyle	LaTeX document text
+1-408	s	\chapter	LaTeX document text
+1-408	s	\documentclass	LaTeX 2e document text
+1-408	s	\relax	LaTeX auxiliary file
+1-408	s	\contentsline	LaTeX table of contents
+1-408	s	% -*-latex-*-	LaTeX document text
+1-32	s	\ifx	TeX document text
+1-408	s	\indexentry	LaTeX raw index file
+1-408	s	\begin{theindex}	LaTeX raw index file
+1-408	s	\glossaryentry	LaTeX raw glossary
+1-408	s	\begin{theglossary}	LaTeX sorted glossary
+1-408	s	This is makeindex	Makeindex log file
+1-32	s	@article{	BibTeX text file
+1-32	s	@book{	BibTeX text file
+1-32	s	@inbook{	BibTeX text file
+1-32	s	@incollection{	BibTeX text file
+1-32	s	@inproceedings{	BibTeX text file
+1-32	s	@manual{	BibTeX text file
+1-32	s	@misc{	BibTeX text file
+1-32	s	@preamble{	BibTeX text file
+1-32	s	@phdthesis{	BibTeX text file
+1-32	s	@techreport{	BibTeX text file
+1-32	s	@unpublished{	BibTeX text file
+73-100	s	%%%  	BibTeX-file{ BibTex text file (with full header)
+73-128	s	%%%  @BibTeX-style-file{	BibTeX style text file (with full header)
+1-64	s	% BibTeX standard bibliography 	BibTeX standard bibliography style text file
+1-64	s	% BibTeX `	BibTeX custom bibliography style text file
+1-64	s	@c @mapfile{	TeX font aliases text file
+
+# tgif
+1	s	%TGIF 	Tgif file version
+
+# ti-8x
+1	s	**TI73**	TI-73 Graphing Calculator file
+1	s	**TI80**	TI-80 Graphing Calculator file
+1	s	**TI81**	TI-81 Graphing Calculator file
+1	s	**TI82**	TI-82 Graphing Calculator file
+1	s	**TI83**	TI-83 Graphing Calculator file
+1	s	**TI83F*	TI-83+ Graphing Calculator file
+1	s	**TI85**	TI-85 Graphing Calculator file
+1	s	**TI86**	TI-86 Graphing Calculator file
+1	s	**TI89**	TI-89 Graphing Calculator file
+1	s	**TI92**	TI-92 Graphing Calculator file
+1	s	**TI92P*	TI-92+/V200 Graphing Calculator file
+23	s	Advanced	TI-XX Graphing Calculator (FLASH)
+1	s	**TIFL**	TI-XX Graphing Calculator (FLASH)
+1	s	VTI	Virtual TI skin
+1	s	TiEmu	TiEmu skin
+
+# Timezone
+1	s	TZif	timezone data
+
+# troff
+1-32	s	.\\"	troff or preprocessor input text
+1-32	s	'\\"	troff or preprocessor input text
+1-32	s	'.\\"	troff or preprocessor input text
+1-32	s	\\"	troff or preprocessor input text
+1-32	s	'''	troff or preprocessor input text
+1	s	x T	ditroff output text
+5	s	cat	ditroff output text for the C/A/T phototypesetter
+5	s	ps	ditroff output text for PostScript
+5	s	dvi	ditroff output text for DVI
+5	s	ascii	ditroff output text for ASCII
+5	s	lj4	ditroff output text for LaserJet 4
+5	s	latin1	ditroff output text for LaserJet 4
+5	s	X75	ditroff output text for xditview at 75dpi
+5	s	X100	ditroff output text for xditview at 100dpi
+
+# TTCN
+1	s	$Suite	TTCN Abstract Test Suite (ISO 9646-3)
+
+# Typeset
+1	s	Interpress/Xerox	Xerox InterPress data
+
+# Unicode
+1	s	+/v8	Unicode text, UTF-7
+1	s	+/v9	Unicode text, UTF-7
+1	s	+/v+	Unicode text, UTF-7
+1	s	+/v/	Unicode text, UTF-7
+
+# Unicode
+1	s	begin 	uuencoded or xxencoded text
+1	s	xbtoa Begin	btoa'd text
+3	s	ship	ship'd binary text
+1	s	Decode the following with	bdeco	bencoded News text
+12	s	must be converted with BinHex	BinHex binary text
+
+# USG systems
+1	s	Joy!peffpwpc	header for PowerPC PEF executable
+1	s	avaobj	AVR assembler object code
+1	s	gmon	GNU prof performance data
+2	s	HRB	Harbour HRB file
+1	s	exec	BugOS executable
+1	s	pack	BugOS archive
+1	s	XPCOM	XPConnect Typelib
+1	s	LBLSIZE=	VICAR image data
+33	s	BYTE	VICAR image data, 8 bits  = VAX byte
+33	s	HALF	VICAR image data, 16 bits = VAX word = Fortran INTEGER*2
+33	s	FULL	VICAR image data, 32 bits = VAX longword = Fortran INTEGER*4
+33	s	REAL	VICAR image data, 32 bits = VAX longword = Fortran REAL*4
+33	s	DOUB	VICAR image data, 64 bits = VAX quadword = Fortran REAL*8
+33	s	COMPLEX	VICAR image data, 64 bits = VAX quadword = Fortran COMPLEX*8
+44	s	SFDU_LABEL	VICAR label file
+
+# UNIX tools
+1-8	s	%%!!	X-Post-It-Note text
+1	s	BEGIN:VCALENDAR	vCalendar calendar file
+1	s	BEGIN:VCARD	vCard visiting card
+5	s	gtktalog	GNOME Catalogue (gtktalog)
+1-112	s	.la - a libtool library file	libtool library file
+1-112	s	.lo - a libtool object file	libtool object file
+
+# VAX/VMS
+44033	s	PK	VMS VAX executable, Info-ZIP SFX archive v5.12 w/decryption
+75265	s	PK	VMS VAX executable, Info-ZIP SFX archive v5.12 w/decryption
+
+# visx
+3	s	.VISIX	VISX image file, ascii text
+
+# Vorbis ogg
+1	s	OggS	Ogg data
+30	s	FLAC	Ogg data, FLAC audio
+30	s	theora	Ogg data, Theora video
+30	s	kate	Ogg data, Kate
+29	s	fishead	Ogg data, Skeleton
+29	s	Speex   	Ogg data, Speex audio
+30	s	video	Ogg data, OGM video
+38	s	div3	Ogg data, OGM video, DivX 3
+38	s	divx	Ogg data, OGM video, DivX 4
+38	s	dx50	Ogg data, OGM video, DivX 5
+38	s	xvid	Ogg data, OGM video, XviD
+30	s	vorbis	Ogg data, Vorbis audio
+
+# Wordprocessors
+2	s	WPC	(WP) loadable file
+1	s	HWP Document File	Hangul (Korean) Word Processor File 3.0
+1	s	CSBK	Ted Neslson's CosmicBook hypertext file
+3	s	EYWR	AmigaWriter file
+3	s	IIXPR3	Intel Quark Express Document (English)
+3	s	IIXPRa	Intel Quark Express Document (Korean)
+3	s	MMXPR3	Motorola Quark Express Document (English)
+3	s	MMXPRa	Motorola Quark Express Document (Korean)
+17	s	DOCUMENT	Adobe InDesign document
+1	s	DOC	Just System Word Processor Ichitaro
+145	s	JDASH	Just System Word Processor Ichitaro v4
+
+# xdelta
+1	s	%XDELTA%	XDelta binary patch file 0.14
+1	s	%XDZ000%	XDelta binary patch file 0.18
+1	s	%XDZ001%	XDelta binary patch file 0.20
+1	s	%XDZ002%	XDelta binary patch file 1.0
+1	s	%XDZ003%	XDelta binary patch file 1.0.4
+1	s	%XDZ004%	XDelta binary patch file 1.1
+
+# xenix
+1	s	core	core file (Xenix)
+3	s	__.SYMDEF	core file (Xenix) randomized
+
+# xwindows
+2	s	mkx	Compiled XKB Keymap, lsb
+1	s	xkm	Compiled XKB Keymap, msb
+1	s	xFSdump0	xfsdump archive
+
+# ZyXEL
+1	s	ZyXEL	ZyXEL voice data
